@@ -5,7 +5,7 @@ about:
   head: e570ee6
   archived: false
   latestVersion: "v2.72.1"
-  collectedAt: 2026-09-08T02:00:21Z
+  collectedAt: 2026-09-08T04:36:16Z
 timeline:
   created: 2018-11-12
   lastCommit: 2026-09-07
@@ -87,7 +87,7 @@ total:
   commit: 5862
 ---
 path: /home/runner/.x-repo/github.com/twpayne/chezmoi
-collectedAt: 2026-09-08T02:00:42Z
+collectedAt: 2026-09-08T04:36:36Z
 loc:
   Go:
     code: 40516
