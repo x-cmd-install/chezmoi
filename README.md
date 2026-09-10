@@ -12,6 +12,28 @@ Manage your dotfiles across multiple diverse machines, securely.
 x install chezmoi
 ```
 
+## Code insight
+
+Total: **44,777** lines of code across **328** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 40,516 | 2,235 | 4,123 | 296 |
+| Yaml | 1,715 | 0 | 8 | 5 |
+| Sh | 801 | 49 | 120 | 10 |
+| PowerShell | 372 | 89 | 85 | 2 |
+| Svg | 358 | 15 | 0 | 15 |
+
+## OpenSSF Scorecard
+
+Overall score: **6.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 1/17 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/twpayne/chezmoi>
@@ -23,6 +45,25 @@ x install chezmoi
 - **Latest**: `v2.72.1` (2026-08-30)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 111
+
+## Popularity
+
+- **Stars**: 21,556 · **Forks**: 688 · **Open issues**: 1,786 · **Contributors**: 230
+
+## Totals (cumulative)
+
+- **Releases**: 257 · **Merged PRs**: 2544 · **Open PRs**: 4 · **Closed issues**: 1731 · **Open issues**: 55 · **Commits**: 5862
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 17 | 0 | 3 | 2 | 38 |
+| last60d | 2026-07-12 | 3 | 45 | 2 | 12 | 3 | 103 |
+| 90d | 2026-06-12 | 4 | 60 | 3 | 21 | 5 | 140 |
+| last180d | 2026-03-14 | 9 | 105 | 4 | 64 | 12 | 229 |
+| 360d | 2025-09-15 | 22 | 232 | 4 | 144 | 28 | 513 |
+| last720d | 2024-09-20 | 49 | 538 | 4 | 352 | 36 | 1116 |
 
 ## Release assets
 
@@ -140,43 +181,20 @@ x install chezmoi
 | [chezmoi_2.72.1_windows_i386.zip.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.72.1/chezmoi_2.72.1_windows_i386.zip.sbom.json) | 270.4 KiB | `native/win/x64` |
 | [chezmoi_cosign.pub](https://github.com/twpayne/chezmoi/releases/download/v2.72.1/chezmoi_cosign.pub) | 178 B | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 21,553 · **Forks**: 688 · **Open issues**: 1,786 · **Contributors**: 230
+Reported by **163** distros on [repology.org](https://repology.org/project/chezmoi). **23** are ✅ on the latest upstream release, **80** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 257 · **Merged PRs**: 2544 · **Open PRs**: 4 · **Closed issues**: 1731 · **Open issues**: 55 · **Commits**: 5862
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 17 | 0 | 3 | 2 | 0 |
-| 90d | 2026-06-12 | 4 | 60 | 3 | 21 | 5 | 0 |
-| 360d | 2025-09-15 | 22 | 232 | 4 | 144 | 28 | 0 |
-
-## Code size
-
-Total: **44,777** lines of code across **328** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 40,516 | 2,235 | 4,123 | 296 |
-| Yaml | 1,715 | 0 | 8 | 5 |
-| Sh | 801 | 49 | 120 | 10 |
-| PowerShell | 372 | 89 | 85 | 2 |
-| Svg | 358 | 15 | 0 | 15 |
-
-## OpenSSF Scorecard
-
-Overall score: **6.6 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 1/17 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.72.1` | ✅ latest |
+| Arch | `2.72.1` | ✅ latest |
+| Homebrew | `2.72.1` | ✅ latest |
+| Fedora rawhide | `2.72.0` | ⚠️ outdated |
+| Nix unstable | `2.72.1` | ✅ latest |
+| Void | `2.72.0` | ⚠️ outdated |
+| Alpine edge | `2.72.1` | ✅ latest |
+| openSUSE Tumbleweed | `2.72.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -187,4 +205,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:33:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:59:27Z._
