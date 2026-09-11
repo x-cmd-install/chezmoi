@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.72.1"
   latestRelease: "v2.72.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:37:48Z
+  collectedAt: 2026-09-11T20:22:33Z
 timeline:
   created: 2018-11-12
   lastCommit: 2026-09-07
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-30
   lastPrerelease: 
 popularity:
-  star: 21559
+  star: 21572
   watcher: 53
-  fork: 688
+  fork: 686
   release: 257
   contributor: 230
   pullRequest: 2817
@@ -91,7 +91,7 @@ total:
   commit: 5862
 ---
 path: /home/runner/.x-repo/github.com/twpayne/chezmoi
-collectedAt: 2026-09-11T04:38:09Z
+collectedAt: 2026-09-11T20:22:55Z
 loc:
   Go:
     code: 40516
