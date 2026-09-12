@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,572 · **Forks**: 686 · **Open issues**: 1,786 · **Contributors**: 230
+- **Stars**: 21,576 · **Forks**: 686 · **Open issues**: 1,786 · **Contributors**: 230
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 17 | 0 | 3 | 0 | 38 |
-| last60d | 2026-07-13 | 3 | 43 | 2 | 13 | 2 | 103 |
-| 90d | 2026-06-13 | 4 | 60 | 3 | 22 | 4 | 140 |
-| last180d | 2026-03-15 | 9 | 104 | 4 | 64 | 11 | 229 |
-| 360d | 2025-09-16 | 22 | 231 | 4 | 144 | 27 | 513 |
-| last720d | 2024-09-21 | 49 | 538 | 4 | 353 | 35 | 1116 |
+| 30d | 2026-08-13 | 1 | 17 | 0 | 3 | 0 | 38 |
+| last60d | 2026-07-14 | 3 | 43 | 2 | 13 | 2 | 103 |
+| 90d | 2026-06-14 | 4 | 60 | 3 | 22 | 4 | 140 |
+| last180d | 2026-03-16 | 9 | 103 | 4 | 63 | 11 | 229 |
+| 360d | 2025-09-17 | 22 | 230 | 4 | 144 | 27 | 513 |
+| last720d | 2024-09-22 | 49 | 538 | 4 | 353 | 35 | 1116 |
 
 ## Release assets
 
@@ -183,7 +183,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **164** distros on [repology.org](https://repology.org/project/chezmoi). **24** are ✅ on the latest upstream release, **80** are ⚠️ on an older version.
+Reported by **163** distros on [repology.org](https://repology.org/project/chezmoi). **23** are ✅ on the latest upstream release, **80** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -205,4 +205,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:23:04Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:48:53Z._
