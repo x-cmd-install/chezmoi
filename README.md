@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,589 · **Forks**: 687 · **Open issues**: 1,786 · **Contributors**: 230
+- **Stars**: 21,602 · **Forks**: 687 · **Open issues**: 1,786 · **Contributors**: 230
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 2 | 17 | 0 | 2 | 0 | 30 |
-| last60d | 2026-07-16 | 4 | 44 | 2 | 13 | 2 | 91 |
-| 90d | 2026-06-16 | 5 | 58 | 3 | 21 | 4 | 137 |
-| last180d | 2026-03-18 | 10 | 103 | 4 | 62 | 11 | 228 |
-| 360d | 2025-09-19 | 23 | 227 | 4 | 142 | 27 | 498 |
-| last720d | 2024-09-24 | 50 | 537 | 4 | 352 | 35 | 1116 |
+| 30d | 2026-08-16 | 2 | 17 | 0 | 2 | 0 | 30 |
+| last60d | 2026-07-17 | 4 | 42 | 2 | 12 | 1 | 91 |
+| 90d | 2026-06-17 | 5 | 58 | 3 | 21 | 4 | 137 |
+| last180d | 2026-03-19 | 10 | 103 | 4 | 62 | 11 | 228 |
+| 360d | 2025-09-20 | 23 | 226 | 4 | 142 | 27 | 498 |
+| last720d | 2024-09-25 | 50 | 537 | 4 | 352 | 35 | 1116 |
 
 ## Release assets
 
@@ -190,4 +190,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:00:53Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:05:14Z._
