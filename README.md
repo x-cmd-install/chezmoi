@@ -4,7 +4,7 @@
 
 Manage your dotfiles across multiple diverse machines, securely.
 
-![chezmoi](https://repo.x-cmd.io/chezmoi.svg)
+[![x-cmd/install — chezmoi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/chezmoi.svg)](https://x-cmd.com/install/chezmoi)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,649 · **Forks**: 689 · **Open issues**: 1,787 · **Contributors**: 230
+- **Stars**: 21,664 · **Forks**: 691 · **Open issues**: 1,788 · **Contributors**: 230
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 2545 · **Open PRs**: 6 · **Closed issues**: 1732 · **Open issues**: 55 · **Commits**: 5866
+- **Releases**: 258 · **Merged PRs**: 2545 · **Open PRs**: 6 · **Closed issues**: 1732 · **Open issues**: 56 · **Commits**: 5866
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 14 | 2 | 2 | 1 | 31 |
-| last60d | 2026-07-20 | 4 | 39 | 4 | 11 | 2 | 92 |
-| 90d | 2026-06-20 | 5 | 58 | 5 | 20 | 5 | 138 |
-| last180d | 2026-03-22 | 10 | 102 | 6 | 62 | 11 | 229 |
-| 360d | 2025-09-23 | 23 | 223 | 6 | 141 | 28 | 499 |
-| last720d | 2024-09-28 | 50 | 534 | 6 | 350 | 36 | 1111 |
+| 30d | 2026-08-21 | 2 | 13 | 2 | 2 | 2 | 31 |
+| last60d | 2026-07-22 | 3 | 38 | 4 | 10 | 3 | 92 |
+| 90d | 2026-06-22 | 5 | 56 | 5 | 20 | 6 | 138 |
+| last180d | 2026-03-24 | 10 | 102 | 6 | 62 | 12 | 229 |
+| 360d | 2025-09-25 | 22 | 223 | 6 | 141 | 29 | 499 |
+| last720d | 2024-09-30 | 50 | 533 | 6 | 350 | 37 | 1111 |
 
 ## Release assets
 
@@ -190,4 +190,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:43:25Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:05:17Z._

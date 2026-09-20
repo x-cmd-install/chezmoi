@@ -4,7 +4,7 @@
 
 Manage your dotfiles across multiple diverse machines, securely.
 
-![chezmoi](https://repo.x-cmd.io/chezmoi.svg?lang=zh)
+[![x-cmd/install — chezmoi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/chezmoi.svg?lang=zh)](https://x-cmd.com/install/chezmoi)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install chezmoi
 
 ## 流行度
 
-- **Star**: 21,649 · **Fork**: 689 · **开放 issue**: 1,787 · **贡献者**: 230
+- **Star**: 21,664 · **Fork**: 691 · **开放 issue**: 1,788 · **贡献者**: 230
 
 ## 累计统计
 
-- **发布数**: 258 · **已合并 PR**: 2545 · **开放 PR**: 6 · **已关闭 issue**: 1732 · **开放 issue**: 55 · **提交数**: 5866
+- **发布数**: 258 · **已合并 PR**: 2545 · **开放 PR**: 6 · **已关闭 issue**: 1732 · **开放 issue**: 56 · **提交数**: 5866
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 14 | 2 | 2 | 1 | 31 |
-| last60d | 2026-07-20 | 4 | 39 | 4 | 11 | 2 | 92 |
-| 90d | 2026-06-20 | 5 | 58 | 5 | 20 | 5 | 138 |
-| last180d | 2026-03-22 | 10 | 102 | 6 | 62 | 11 | 229 |
-| 360d | 2025-09-23 | 23 | 223 | 6 | 141 | 28 | 499 |
-| last720d | 2024-09-28 | 50 | 534 | 6 | 350 | 36 | 1111 |
+| 30d | 2026-08-21 | 2 | 13 | 2 | 2 | 2 | 31 |
+| last60d | 2026-07-22 | 3 | 38 | 4 | 10 | 3 | 92 |
+| 90d | 2026-06-22 | 5 | 56 | 5 | 20 | 6 | 138 |
+| last180d | 2026-03-24 | 10 | 102 | 6 | 62 | 12 | 229 |
+| 360d | 2025-09-25 | 22 | 223 | 6 | 141 | 29 | 499 |
+| last720d | 2024-09-30 | 50 | 533 | 6 | 350 | 37 | 1111 |
 
 ## Release 资产
 
@@ -190,4 +190,4 @@ chezmoi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:43:26Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:05:19Z._
