@@ -4,7 +4,7 @@
 
 Manage your dotfiles across multiple diverse machines, securely.
 
-[![x-cmd/install — chezmoi Code Quality Monitoring Repo Card](https://repo.x-cmd.io/chezmoi.svg?lang=zh)](https://x-cmd.com/install/chezmoi)
+[![x-cmd/install — chezmoi Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/chezmoi.svg?lang=zh)](https://x-cmd.com/install/chezmoi)
 
 ## 安装
 
@@ -26,11 +26,11 @@ x install chezmoi
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.6 / 10**
+总评分: **6.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/17 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ x install chezmoi
 
 ## 流行度
 
-- **Star**: 21,684 · **Fork**: 690 · **开放 issue**: 1,788 · **贡献者**: 231
+- **Star**: 21,692 · **Fork**: 689 · **开放 issue**: 1,789 · **贡献者**: 231
 
 ## 累计统计
 
-- **发布数**: 258 · **已合并 PR**: 2547 · **开放 PR**: 3 · **已关闭 issue**: 1734 · **开放 issue**: 54 · **提交数**: 5873
+- **发布数**: 258 · **已合并 PR**: 2547 · **开放 PR**: 4 · **已关闭 issue**: 1734 · **开放 issue**: 55 · **提交数**: 5873
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 14 | 0 | 4 | 0 | 33 |
-| last60d | 2026-07-24 | 3 | 39 | 1 | 12 | 1 | 76 |
-| 90d | 2026-06-24 | 5 | 58 | 2 | 22 | 4 | 138 |
-| last180d | 2026-03-26 | 10 | 104 | 3 | 63 | 10 | 227 |
-| 360d | 2025-09-27 | 22 | 224 | 3 | 142 | 27 | 484 |
-| last720d | 2024-10-02 | 49 | 533 | 3 | 351 | 35 | 1112 |
+| 30d | 2026-08-24 | 2 | 14 | 1 | 4 | 1 | 33 |
+| last60d | 2026-07-25 | 3 | 35 | 2 | 11 | 2 | 76 |
+| 90d | 2026-06-25 | 5 | 58 | 3 | 22 | 4 | 138 |
+| last180d | 2026-03-27 | 10 | 104 | 4 | 62 | 11 | 227 |
+| 360d | 2025-09-28 | 22 | 222 | 4 | 141 | 28 | 484 |
+| last720d | 2024-10-03 | 49 | 533 | 4 | 351 | 36 | 1111 |
 
 ## Release 资产
 
@@ -190,4 +190,4 @@ chezmoi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:51:45Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:05:20Z._
