@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.73.0` (2026-09-28)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-10-04
 - **Assets in release**: 111
 
 ## Popularity
 
-- **Stars**: 21,810 · **Forks**: 693 · **Open issues**: 1,791 · **Contributors**: 231
+- **Stars**: 21,824 · **Forks**: 692 · **Open issues**: 1,792 · **Contributors**: 231
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 2551 · **Open PRs**: 4 · **Closed issues**: 1735 · **Open issues**: 56 · **Commits**: 5882
+- **Releases**: 259 · **Merged PRs**: 2552 · **Open PRs**: 5 · **Closed issues**: 1735 · **Open issues**: 57 · **Commits**: 5885
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 2 | 10 | 1 | 4 | 2 | 28 |
-| last60d | 2026-08-05 | 3 | 27 | 1 | 11 | 3 | 66 |
-| 90d | 2026-07-06 | 6 | 54 | 2 | 19 | 4 | 132 |
-| last180d | 2026-04-07 | 11 | 101 | 3 | 55 | 12 | 232 |
-| 360d | 2025-10-09 | 22 | 214 | 4 | 132 | 28 | 473 |
-| last720d | 2024-10-14 | 49 | 528 | 4 | 345 | 37 | 1106 |
+| 30d | 2026-09-05 | 2 | 9 | 2 | 4 | 3 | 20 |
+| last60d | 2026-08-06 | 3 | 28 | 2 | 11 | 4 | 61 |
+| 90d | 2026-07-07 | 6 | 54 | 3 | 19 | 5 | 131 |
+| last180d | 2026-04-08 | 11 | 102 | 4 | 55 | 13 | 227 |
+| 360d | 2025-10-10 | 22 | 215 | 5 | 132 | 29 | 470 |
+| last720d | 2024-10-15 | 49 | 529 | 5 | 342 | 38 | 1109 |
 
 ## Release assets
 
@@ -190,4 +190,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T05:49:08Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T05:40:36Z._
