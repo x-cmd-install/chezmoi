@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 14412579,
       "digest": "sha256:220a33fa46217455d79a99ca6155404359109968bed992af6c7d13a619a46b76",
-      "download_count": 41,
+      "download_count": 46,
       "created_at": "2026-09-28T19:52:17Z",
       "updated_at": "2026-09-28T19:52:18Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi-2.73.0-aarch64.rpm"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 16019275,
       "digest": "sha256:255a7783eab12d27b2d5641f539c9a82e983b1e16bb2b78bc4a6e627a889c0fb",
-      "download_count": 96,
+      "download_count": 107,
       "created_at": "2026-09-28T19:52:19Z",
       "updated_at": "2026-09-28T19:52:20Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi-2.73.0-x86_64.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2505514,
       "digest": "sha256:9311b05db8f302912b16f9a596456c13587d66ec78802cb13c7269928eea1abc",
-      "download_count": 261,
+      "download_count": 291,
       "created_at": "2026-09-28T19:52:10Z",
       "updated_at": "2026-09-28T19:52:11Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi-2.73.0.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 42667232,
       "digest": "sha256:7f782d1c8e930e205e0487a0fd79d8bb62327adf204af8233672e252f019852a",
-      "download_count": 38,
+      "download_count": 42,
       "created_at": "2026-09-28T19:52:33Z",
       "updated_at": "2026-09-28T19:52:35Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi-darwin-amd64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 39457938,
       "digest": "sha256:4ba16b902a275576ac78a75a1c3370eb09eb21d96ec4ddda53570125837ddb2a",
-      "download_count": 62,
+      "download_count": 71,
       "created_at": "2026-09-28T19:52:33Z",
       "updated_at": "2026-09-28T19:52:35Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi-darwin-arm64"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 41948040,
       "digest": "sha256:4b42a0fb0dec69f37964c6701f89daa6bf6393aaeb92bbcbc8f3ee9f08a49bcd",
-      "download_count": 694,
+      "download_count": 829,
       "created_at": "2026-09-28T19:52:33Z",
       "updated_at": "2026-09-28T19:52:35Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi-linux-amd64"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 42024848,
       "digest": "sha256:7e7f1ed1127178a4fe44787ffc6941f9bd5753810e3913fcbcd53f0be69c9557",
-      "download_count": 130,
+      "download_count": 147,
       "created_at": "2026-09-28T19:52:35Z",
       "updated_at": "2026-09-28T19:52:36Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi-linux-amd64-musl"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 42629120,
       "digest": "sha256:8cb8353d6a20719d97e3106ae652724ecba3795ef08c761d9d8ce4f624441a47",
-      "download_count": 44,
+      "download_count": 94,
       "created_at": "2026-09-28T19:52:32Z",
       "updated_at": "2026-09-28T19:52:34Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi-windows-amd64.exe"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 11029,
       "digest": "sha256:96baff057244cc29226194d82d5410707be864a47cc91fc459940fb6fefa95f7",
-      "download_count": 21755,
+      "download_count": 26237,
       "created_at": "2026-09-28T19:52:32Z",
       "updated_at": "2026-09-28T19:52:32Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_checksums.txt"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 3759,
       "digest": "sha256:5e507f6179b90c602c25a6ba085757e2f0c2853610d3c0503b3a7da2fa2ca1c5",
-      "download_count": 2842,
+      "download_count": 3359,
       "created_at": "2026-09-28T19:52:32Z",
       "updated_at": "2026-09-28T19:52:32Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_checksums.txt.sigstore.json"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 16222507,
       "digest": "sha256:55e7b0823b40966a239cb418b37201c5f0961bab1b797c933550c97b1ab08221",
-      "download_count": 365,
+      "download_count": 440,
       "created_at": "2026-09-28T19:52:05Z",
       "updated_at": "2026-09-28T19:52:06Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_darwin_amd64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 14990219,
       "digest": "sha256:246679a0b200e7e8be4a951be3b95d37c33ecb87eaab5af6f4949f7d0317bcc1",
-      "download_count": 3212,
+      "download_count": 3810,
       "created_at": "2026-09-28T19:52:09Z",
       "updated_at": "2026-09-28T19:52:10Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_darwin_arm64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 15793576,
       "digest": "sha256:7d66f7a381feb279f9850089c6a7ad0f5981550f252b7314aa762e99d41d8d47",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-09-28T19:52:07Z",
       "updated_at": "2026-09-28T19:52:08Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_freebsd_amd64.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 16021549,
       "digest": "sha256:b597729b687af4488a848240134cb633de8ca0f04e0d26d48f400ee2ac338ffa",
-      "download_count": 16590,
+      "download_count": 19985,
       "created_at": "2026-09-28T19:52:09Z",
       "updated_at": "2026-09-28T19:52:11Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux-glibc_amd64.tar.gz"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 16067429,
       "digest": "sha256:09559524c5c724df9d452f1e78cfeca063d68c18a38b3bebb8bf48e9b13249b7",
-      "download_count": 1254,
+      "download_count": 1462,
       "created_at": "2026-09-28T19:52:10Z",
       "updated_at": "2026-09-28T19:52:11Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux-musl_amd64.tar.gz"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 16696290,
       "digest": "sha256:f3938a38cc57f88411fc691afda3d5948b8cf6e9391d6804db448f467d96e379",
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2026-09-28T19:52:22Z",
       "updated_at": "2026-09-28T19:52:23Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux_amd64.apk"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 16017710,
       "digest": "sha256:24df0be680b422e87fd8b4930fba583650920d68af81d53162a30867f8a8e0c8",
-      "download_count": 287,
+      "download_count": 314,
       "created_at": "2026-09-28T19:52:16Z",
       "updated_at": "2026-09-28T19:52:17Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux_amd64.deb"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 15903798,
       "digest": "sha256:c017b4e0120b46bc4d72d6ecd7ce58dcbdac520ed3d81aa10110241dfbaf7020",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-28T19:52:11Z",
       "updated_at": "2026-09-28T19:52:12Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux_amd64.pkg.tar.zst"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 16021549,
       "digest": "sha256:b597729b687af4488a848240134cb633de8ca0f04e0d26d48f400ee2ac338ffa",
-      "download_count": 1922,
+      "download_count": 2359,
       "created_at": "2026-09-28T19:52:05Z",
       "updated_at": "2026-09-28T19:52:06Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux_amd64.tar.gz"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 14415922,
       "digest": "sha256:99372f1e46c0532d377c0a368d3d3ba60eb252a9dbba3ca43e1767f571a73362",
-      "download_count": 51,
+      "download_count": 52,
       "created_at": "2026-09-28T19:52:14Z",
       "updated_at": "2026-09-28T19:52:15Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux_arm64.deb"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 14231324,
       "digest": "sha256:9c43766b7df97a415b8a9c30cd7b87518b6d76ae3d521849e0855d717aea7431",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-28T19:52:11Z",
       "updated_at": "2026-09-28T19:52:12Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux_arm64.pkg.tar.zst"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 14419474,
       "digest": "sha256:abcb840401d3c1f2356e0f53f5d52aa10d10f572654d9626db9ad0ca4dc03355",
-      "download_count": 1559,
+      "download_count": 1918,
       "created_at": "2026-09-28T19:51:58Z",
       "updated_at": "2026-09-28T19:51:59Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux_arm64.tar.gz"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 15173804,
       "digest": "sha256:ad177e42dc6c92f4f0c2178801e5fe0e63155ba34371ec0c8221a2ca331db7bd",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-09-28T19:52:12Z",
       "updated_at": "2026-09-28T19:52:13Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux_armhf.deb"
@@ -2155,7 +2155,7 @@
       "state": "uploaded",
       "size": 15178419,
       "digest": "sha256:cca15143c56ec46f07a9af968f779c8e41722b644225199ecc4e052af86cc6ec",
-      "download_count": 34,
+      "download_count": 40,
       "created_at": "2026-09-28T19:52:07Z",
       "updated_at": "2026-09-28T19:52:07Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux_armv6.tar.gz"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 15258493,
       "digest": "sha256:d7c57b08efdf6b1f32c5d1f4c4da4880db047c42875049353af1fe6e2559df48",
-      "download_count": 32,
+      "download_count": 36,
       "created_at": "2026-09-28T19:52:02Z",
       "updated_at": "2026-09-28T19:52:03Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_linux_i386.tar.gz"
@@ -3775,7 +3775,7 @@
       "state": "uploaded",
       "size": 16261762,
       "digest": "sha256:266938399108028a5b6dc7a137026e3ead747304122e5fe381d5396e496620f6",
-      "download_count": 4570,
+      "download_count": 5425,
       "created_at": "2026-09-28T19:52:02Z",
       "updated_at": "2026-09-28T19:52:03Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_windows_amd64.zip"
@@ -3883,7 +3883,7 @@
       "state": "uploaded",
       "size": 14494330,
       "digest": "sha256:bedc0ea1949d6b13386b5326a92bbca64506ffe8566c95c1b569067b8f1a1761",
-      "download_count": 123,
+      "download_count": 132,
       "created_at": "2026-09-28T19:52:04Z",
       "updated_at": "2026-09-28T19:52:06Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_windows_arm64.zip"
@@ -3955,7 +3955,7 @@
       "state": "uploaded",
       "size": 15812657,
       "digest": "sha256:f8041408280a9a450d0a6cf3944f050cb4691a92ac9b4138be5005fabc7c607c",
-      "download_count": 126,
+      "download_count": 132,
       "created_at": "2026-09-28T19:52:00Z",
       "updated_at": "2026-09-28T19:52:01Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_2.73.0_windows_i386.zip"
@@ -4027,7 +4027,7 @@
       "state": "uploaded",
       "size": 178,
       "digest": "sha256:b0dabc5b39f58d3727ab47974c0ca218d15d71d164dfee2515f9c13f3a13fc2a",
-      "download_count": 2711,
+      "download_count": 3204,
       "created_at": "2026-09-28T19:52:33Z",
       "updated_at": "2026-09-28T19:52:33Z",
       "browser_download_url": "https://github.com/twpayne/chezmoi/releases/download/v2.73.0/chezmoi_cosign.pub"
