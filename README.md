@@ -14,12 +14,12 @@ x install chezmoi
 
 ## Code insight
 
-Total: **44,783** lines of code across **329** files in the top 5 languages.
+Total: **44,788** lines of code across **329** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 40,510 | 2,233 | 4,125 | 297 |
-| Yaml | 1,721 | 0 | 8 | 5 |
+| Yaml | 1,726 | 0 | 8 | 5 |
 | Sh | 807 | 49 | 122 | 10 |
 | PowerShell | 372 | 89 | 85 | 2 |
 | Svg | 358 | 15 | 0 | 15 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.73.0` (2026-09-28)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 - **Assets in release**: 111
 
 ## Popularity
 
-- **Stars**: 21,833 · **Forks**: 693 · **Open issues**: 1,792 · **Contributors**: 232
+- **Stars**: 21,850 · **Forks**: 693 · **Open issues**: 1,792 · **Contributors**: 232
 
 ## Totals (cumulative)
 
-- **Releases**: 259 · **Merged PRs**: 2553 · **Open PRs**: 4 · **Closed issues**: 1736 · **Open issues**: 56 · **Commits**: 5886
+- **Releases**: 259 · **Merged PRs**: 2554 · **Open PRs**: 3 · **Closed issues**: 1736 · **Open issues**: 56 · **Commits**: 5892
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 2 | 10 | 1 | 5 | 2 | 21 |
-| last60d | 2026-08-07 | 3 | 28 | 1 | 11 | 3 | 62 |
-| 90d | 2026-07-08 | 5 | 55 | 2 | 19 | 4 | 132 |
-| last180d | 2026-04-09 | 10 | 102 | 3 | 55 | 12 | 228 |
-| 360d | 2025-10-11 | 22 | 216 | 4 | 132 | 28 | 471 |
-| last720d | 2024-10-16 | 49 | 530 | 4 | 343 | 37 | 1110 |
+| 30d | 2026-09-07 | 2 | 10 | 0 | 5 | 2 | 27 |
+| last60d | 2026-08-08 | 3 | 29 | 0 | 11 | 3 | 68 |
+| 90d | 2026-07-09 | 5 | 56 | 1 | 18 | 4 | 138 |
+| last180d | 2026-04-10 | 10 | 102 | 2 | 55 | 12 | 234 |
+| 360d | 2025-10-12 | 22 | 217 | 3 | 132 | 28 | 477 |
+| last720d | 2024-10-17 | 49 | 528 | 3 | 342 | 37 | 1116 |
 
 ## Release assets
 
@@ -190,4 +190,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:18:42Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:53:54Z._
