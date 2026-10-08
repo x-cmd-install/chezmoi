@@ -26,11 +26,11 @@ x install chezmoi
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.7 / 10**
+总评分: **6.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 2/16 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 3/14 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,7 +48,7 @@ x install chezmoi
 
 ## 流行度
 
-- **Star**: 21,850 · **Fork**: 693 · **开放 issue**: 1,792 · **贡献者**: 232
+- **Star**: 21,860 · **Fork**: 693 · **开放 issue**: 1,792 · **贡献者**: 232
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install chezmoi
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 10 | 0 | 5 | 2 | 27 |
-| last60d | 2026-08-08 | 3 | 29 | 0 | 11 | 3 | 68 |
-| 90d | 2026-07-09 | 5 | 56 | 1 | 18 | 4 | 138 |
-| last180d | 2026-04-10 | 10 | 102 | 2 | 55 | 12 | 234 |
-| 360d | 2025-10-12 | 22 | 217 | 3 | 132 | 28 | 477 |
-| last720d | 2024-10-17 | 49 | 528 | 3 | 342 | 37 | 1116 |
+| 30d | 2026-09-08 | 2 | 10 | 0 | 5 | 2 | 27 |
+| last60d | 2026-08-09 | 3 | 28 | 0 | 11 | 3 | 68 |
+| 90d | 2026-07-10 | 5 | 55 | 1 | 18 | 4 | 138 |
+| last180d | 2026-04-11 | 10 | 101 | 2 | 54 | 12 | 234 |
+| 360d | 2025-10-13 | 22 | 216 | 3 | 132 | 28 | 477 |
+| last720d | 2024-10-18 | 49 | 527 | 3 | 341 | 37 | 1114 |
 
 ## Release 资产
 
@@ -190,4 +190,4 @@ chezmoi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T05:53:55Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T06:10:57Z._
