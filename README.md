@@ -14,12 +14,12 @@ x install chezmoi
 
 ## Code insight
 
-Total: **45,070** lines of code across **330** files in the top 5 languages.
+Total: **45,091** lines of code across **330** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 40,792 | 2,251 | 4,155 | 298 |
-| Yaml | 1,726 | 0 | 8 | 5 |
+| Go | 40,806 | 2,251 | 4,155 | 298 |
+| Yaml | 1,731 | 0 | 8 | 5 |
 | Sh | 807 | 49 | 122 | 10 |
 | PowerShell | 372 | 89 | 85 | 2 |
 | Svg | 358 | 15 | 0 | 15 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.73.3` (2026-10-20)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-23
 - **Assets in release**: 111
 
 ## Popularity
 
-- **Stars**: 22,008 · **Forks**: 696 · **Open issues**: 1,796 · **Contributors**: 234
+- **Stars**: 22,023 · **Forks**: 697 · **Open issues**: 1,796 · **Contributors**: 234
 
 ## Totals (cumulative)
 
-- **Releases**: 262 · **Merged PRs**: 2571 · **Open PRs**: 3 · **Closed issues**: 1750 · **Open issues**: 46 · **Commits**: 5927
+- **Releases**: 262 · **Merged PRs**: 2574 · **Open PRs**: 4 · **Closed issues**: 1750 · **Open issues**: 46 · **Commits**: 5939
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 4 | 23 | 1 | 5 | 2 | 0 |
-| last60d | 2026-08-23 | 6 | 38 | 1 | 9 | 3 | 0 |
-| 90d | 2026-07-24 | 7 | 63 | 2 | 18 | 3 | 0 |
-| last180d | 2026-04-25 | 12 | 105 | 3 | 49 | 10 | 0 |
-| 360d | 2025-10-27 | 24 | 224 | 3 | 135 | 20 | 0 |
-| last720d | 2024-11-01 | 50 | 514 | 3 | 341 | 29 | 1103 |
+| 30d | 2026-09-23 | 4 | 26 | 2 | 5 | 2 | 63 |
+| last60d | 2026-08-24 | 6 | 41 | 2 | 9 | 3 | 101 |
+| 90d | 2026-07-25 | 7 | 62 | 3 | 17 | 3 | 145 |
+| last180d | 2026-04-26 | 12 | 108 | 4 | 48 | 9 | 255 |
+| 360d | 2025-10-28 | 24 | 225 | 4 | 135 | 20 | 503 |
+| last720d | 2024-11-02 | 50 | 515 | 4 | 339 | 29 | 1110 |
 
 ## Release assets
 
@@ -181,6 +181,22 @@ Lowest-scoring checks:
 | [chezmoi_2.73.3_windows_i386.zip.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_windows_i386.zip.sbom.json) | 273.3 KiB | `native/win/x64` |
 | [chezmoi_cosign.pub](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_cosign.pub) | 178 B | `other` |
 
+## Distribution status
+
+Reported by **169** distros on [repology.org](https://repology.org/project/chezmoi). **13** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.73.1` | ⚠️ outdated |
+| Debian 14 | `2.73.1` | ⚠️ outdated |
+| Arch | `2.73.3` | ✅ latest |
+| Homebrew | `2.73.3` | ✅ latest |
+| Fedora rawhide | `2.73.0` | ⚠️ outdated |
+| Nix unstable | `2.73.2` | ⚠️ outdated |
+| Void | `2.73.1` | ⚠️ outdated |
+| Alpine edge | `2.73.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.73.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `chezmoi` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -190,4 +206,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:40:58Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:53:14Z._

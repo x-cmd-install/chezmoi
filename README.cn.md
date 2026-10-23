@@ -14,12 +14,12 @@ x install chezmoi
 
 ## 代码洞察
 
-合计: **45,070** 行代码（覆盖前 5 种语言、共 **330** 个文件）。
+合计: **45,091** 行代码（覆盖前 5 种语言、共 **330** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 40,792 | 2,251 | 4,155 | 298 |
-| Yaml | 1,726 | 0 | 8 | 5 |
+| Go | 40,806 | 2,251 | 4,155 | 298 |
+| Yaml | 1,731 | 0 | 8 | 5 |
 | Sh | 807 | 49 | 122 | 10 |
 | PowerShell | 372 | 89 | 85 | 2 |
 | Svg | 358 | 15 | 0 | 15 |
@@ -43,27 +43,27 @@ x install chezmoi
 ## 发布
 
 - **最新版本**: `v2.73.3` (2026-10-20)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-23
 - **Release 含资产**: 111 个
 
 ## 流行度
 
-- **Star**: 22,008 · **Fork**: 696 · **开放 issue**: 1,796 · **贡献者**: 234
+- **Star**: 22,023 · **Fork**: 697 · **开放 issue**: 1,796 · **贡献者**: 234
 
 ## 累计统计
 
-- **发布数**: 262 · **已合并 PR**: 2571 · **开放 PR**: 3 · **已关闭 issue**: 1750 · **开放 issue**: 46 · **提交数**: 5927
+- **发布数**: 262 · **已合并 PR**: 2574 · **开放 PR**: 4 · **已关闭 issue**: 1750 · **开放 issue**: 46 · **提交数**: 5939
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 4 | 23 | 1 | 5 | 2 | 0 |
-| last60d | 2026-08-23 | 6 | 38 | 1 | 9 | 3 | 0 |
-| 90d | 2026-07-24 | 7 | 63 | 2 | 18 | 3 | 0 |
-| last180d | 2026-04-25 | 12 | 105 | 3 | 49 | 10 | 0 |
-| 360d | 2025-10-27 | 24 | 224 | 3 | 135 | 20 | 0 |
-| last720d | 2024-11-01 | 50 | 514 | 3 | 341 | 29 | 1103 |
+| 30d | 2026-09-23 | 4 | 26 | 2 | 5 | 2 | 63 |
+| last60d | 2026-08-24 | 6 | 41 | 2 | 9 | 3 | 101 |
+| 90d | 2026-07-25 | 7 | 62 | 3 | 17 | 3 | 145 |
+| last180d | 2026-04-26 | 12 | 108 | 4 | 48 | 9 | 255 |
+| 360d | 2025-10-28 | 24 | 225 | 4 | 135 | 20 | 503 |
+| last720d | 2024-11-02 | 50 | 515 | 4 | 339 | 29 | 1110 |
 
 ## Release 资产
 
@@ -181,6 +181,22 @@ x install chezmoi
 | [chezmoi_2.73.3_windows_i386.zip.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_windows_i386.zip.sbom.json) | 273.3 KiB | `native/win/x64` |
 | [chezmoi_cosign.pub](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_cosign.pub) | 178 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/chezmoi) 上共有 **169** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**92** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2.73.1` | ⚠️ outdated |
+| Debian 14 | `2.73.1` | ⚠️ outdated |
+| Arch | `2.73.3` | ✅ latest |
+| Homebrew | `2.73.3` | ✅ latest |
+| Fedora rawhide | `2.73.0` | ⚠️ outdated |
+| Nix unstable | `2.73.2` | ⚠️ outdated |
+| Void | `2.73.1` | ⚠️ outdated |
+| Alpine edge | `2.73.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.73.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 chezmoi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `chezmoi` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -190,4 +206,4 @@ chezmoi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:40:58Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:53:15Z._
