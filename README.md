@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,023 · **Forks**: 697 · **Open issues**: 1,796 · **Contributors**: 234
+- **Stars**: 22,026 · **Forks**: 697 · **Open issues**: 1,796 · **Contributors**: 234
 
 ## Totals (cumulative)
 
-- **Releases**: 262 · **Merged PRs**: 2574 · **Open PRs**: 4 · **Closed issues**: 1750 · **Open issues**: 46 · **Commits**: 5939
+- **Releases**: 262 · **Merged PRs**: 2575 · **Open PRs**: 3 · **Closed issues**: 1750 · **Open issues**: 46 · **Commits**: 5944
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 4 | 26 | 2 | 5 | 2 | 63 |
-| last60d | 2026-08-24 | 6 | 41 | 2 | 9 | 3 | 101 |
-| 90d | 2026-07-25 | 7 | 62 | 3 | 17 | 3 | 145 |
-| last180d | 2026-04-26 | 12 | 108 | 4 | 48 | 9 | 255 |
-| 360d | 2025-10-28 | 24 | 225 | 4 | 135 | 20 | 503 |
-| last720d | 2024-11-02 | 50 | 515 | 4 | 339 | 29 | 1110 |
+| 30d | 2026-09-24 | 4 | 27 | 1 | 5 | 2 | 68 |
+| last60d | 2026-08-25 | 6 | 42 | 1 | 9 | 3 | 106 |
+| 90d | 2026-07-26 | 7 | 58 | 2 | 17 | 3 | 150 |
+| last180d | 2026-04-27 | 12 | 107 | 3 | 48 | 9 | 260 |
+| 360d | 2025-10-29 | 24 | 226 | 3 | 134 | 20 | 508 |
+| last720d | 2024-11-03 | 50 | 515 | 3 | 338 | 29 | 1114 |
 
 ## Release assets
 
@@ -183,7 +183,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **169** distros on [repology.org](https://repology.org/project/chezmoi). **13** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
+Reported by **170** distros on [repology.org](https://repology.org/project/chezmoi). **14** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -206,4 +206,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:53:14Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:35:08Z._
