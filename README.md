@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,026 · **Forks**: 697 · **Open issues**: 1,796 · **Contributors**: 234
+- **Stars**: 22,036 · **Forks**: 698 · **Open issues**: 1,796 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 262 · **Merged PRs**: 2575 · **Open PRs**: 3 · **Closed issues**: 1750 · **Open issues**: 46 · **Commits**: 5944
+- **Releases**: 262 · **Merged PRs**: 2577 · **Open PRs**: 3 · **Closed issues**: 1750 · **Open issues**: 46 · **Commits**: 5944
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 4 | 27 | 1 | 5 | 2 | 68 |
-| last60d | 2026-08-25 | 6 | 42 | 1 | 9 | 3 | 106 |
-| 90d | 2026-07-26 | 7 | 58 | 2 | 17 | 3 | 150 |
-| last180d | 2026-04-27 | 12 | 107 | 3 | 48 | 9 | 260 |
-| 360d | 2025-10-29 | 24 | 226 | 3 | 134 | 20 | 508 |
-| last720d | 2024-11-03 | 50 | 515 | 3 | 338 | 29 | 1114 |
+| 30d | 2026-09-25 | 4 | 28 | 1 | 4 | 2 | 68 |
+| last60d | 2026-08-26 | 6 | 44 | 1 | 9 | 3 | 106 |
+| 90d | 2026-07-27 | 7 | 58 | 2 | 17 | 3 | 150 |
+| last180d | 2026-04-28 | 12 | 109 | 3 | 47 | 9 | 260 |
+| 360d | 2025-10-30 | 24 | 228 | 3 | 134 | 20 | 508 |
+| last720d | 2024-11-04 | 50 | 514 | 3 | 337 | 29 | 1110 |
 
 ## Release assets
 
@@ -183,11 +183,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **170** distros on [repology.org](https://repology.org/project/chezmoi). **14** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
+Reported by **171** distros on [repology.org](https://repology.org/project/chezmoi). **16** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2.73.1` | ⚠️ outdated |
+| Debian unstable | `2.73.1` | 🪦 legacy |
 | Debian 14 | `2.73.1` | ⚠️ outdated |
 | Arch | `2.73.3` | ✅ latest |
 | Homebrew | `2.73.3` | ✅ latest |
@@ -206,4 +206,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:35:08Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:45:29Z._
