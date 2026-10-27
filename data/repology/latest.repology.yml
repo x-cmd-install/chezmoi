@@ -1,40 +1,58 @@
-- repo: kali_rolling
-  subrepo: main
+- repo: nix_stable_24_05
   srcname: chezmoi
-  binnames:
-    - chezmoi
   visiblename: chezmoi
-  version: 2.73.1
-  origversion: 2.73.1-1
+  version: 2.48.1
+  origversion: null
   status: outdated
+  summary: Manage your dotfiles across multiple machines, securely
   maintainers:
-    - daniel@debian.org
-  categories:
-    - vcs
-- repo: raspbian_testing
-  subrepo: main
+    - torres.anderson.85@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
   srcname: chezmoi
-  binnames:
-    - chezmoi
   visiblename: chezmoi
-  version: 2.73.1
-  origversion: 2.73.1-1
+  version: 2.53.1
+  origversion: null
   status: outdated
+  summary: Manage your dotfiles across multiple machines, securely
   maintainers:
-    - daniel@debian.org
-  categories:
-    - vcs
-- repo: manjaro_unstable
-  subrepo: extra
+    - torres.anderson.85@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: chezmoi
+  visiblename: chezmoi
+  version: 2.62.3
+  origversion: null
+  status: outdated
+  summary: Manage your dotfiles across multiple machines, securely
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: gnuguix
   srcname: chezmoi
   binname: chezmoi
   visiblename: chezmoi
+  version: 2.1.0
+  origversion: null
+  status: outdated
+  summary: Personal configuration files manager
+- repo: homebrew
+  srcname: chezmoi
+  visiblename: chezmoi
   version: 2.73.3
-  origversion: 2.73.3-1
+  origversion: null
   status: newest
-  summary: Manage your dotfiles across multiple machines
-  licenses:
-    - MIT
+  summary: Manage your dotfiles across multiple diverse machines, securely
+- repo: homebrew
+  srcname: chezmoi
+  visiblename: chezmoi
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Manage your dotfiles across multiple diverse machines, securely
 - repo: aerynos
   srcname: chezmoi
   visiblename: chezmoi
@@ -70,6 +88,19 @@
     - kdaudt@alpinelinux.org
   licenses:
     - MIT
+- repo: kali_rolling
+  subrepo: main
+  srcname: chezmoi
+  binnames:
+    - chezmoi
+  visiblename: chezmoi
+  version: 2.73.1
+  origversion: 2.73.1-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - vcs
 - repo: alpine_3_17
   subrepo: community
   srcname: chezmoi
@@ -213,17 +244,6 @@
     - kdaudt@alpinelinux.org
   licenses:
     - MIT
-- repo: nix_stable_24_11
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: 2.53.1
-  origversion: null
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely
-  maintainers:
-    - torres.anderson.85@protonmail.com
-  licenses:
-    - MIT
 - repo: alpine_3_20
   subrepo: community
   srcname: chezmoi
@@ -352,6 +372,17 @@
   summary: Fish completions for chezmoi
   maintainers:
     - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: chezmoi
+  binname: chezmoi
+  visiblename: chezmoi
+  version: 2.73.3
+  origversion: 2.73.3-1
+  status: newest
+  summary: Manage your dotfiles across multiple machines
   licenses:
     - MIT
 - repo: alpine_3_22
@@ -683,19 +714,6 @@
   binnames:
     - chezmoi
   visiblename: chezmoi
-  version: 2.73.1
-  origversion: 2.73.1-1
-  status: legacy
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - vcs
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: chezmoi
-  binnames:
-    - chezmoi
-  visiblename: chezmoi
   version: 2.73.3
   origversion: 2.73.3-1
   status: newest
@@ -779,22 +797,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: chezmoi
-  binnames:
-    - chezmoi
-    - chezmoi-debuginfo
-    - chezmoi-debugsource
-  visiblename: chezmoi
-  version: 2.70.0
-  origversion: 2.70.0-1.fc43
-  status: outdated
-  summary: Manage your dotfiles across multiple diverse machines
-  licenses:
-    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-3.0 AND ISC AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: chezmoi
   binnames:
@@ -810,8 +812,8 @@
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
-- repo: fedora_44
-  subrepo: release
+- repo: fedora_43
+  subrepo: updates
   srcname: chezmoi
   binnames:
     - chezmoi
@@ -819,8 +821,8 @@
     - chezmoi-debugsource
   visiblename: chezmoi
   version: 2.70.0
-  origversion: 2.70.0-1.fc44
-  status: legacy
+  origversion: 2.70.0-1.fc43
+  status: outdated
   summary: Manage your dotfiles across multiple diverse machines
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-3.0 AND ISC AND MIT AND MPL-2.0
@@ -840,6 +842,22 @@
   summary: Manage your dotfiles across multiple diverse machines
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND OFL-1.1
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: chezmoi
+  binnames:
+    - chezmoi
+    - chezmoi-debuginfo
+    - chezmoi-debugsource
+  visiblename: chezmoi
+  version: 2.70.0
+  origversion: 2.70.0-1.fc44
+  status: legacy
+  summary: Manage your dotfiles across multiple diverse machines
+  licenses:
+    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-3.0 AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_rawhide
@@ -870,17 +888,6 @@
     - samir@noir.im
   categories:
     - sysutils
-- repo: nix_stable_24_05
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: 2.48.1
-  origversion: null
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely
-  maintainers:
-    - torres.anderson.85@protonmail.com
-  licenses:
-    - MIT
 - repo: gentoo_ovl_guru
   srcname: app-admin/chezmoi
   visiblename: app-admin/chezmoi
@@ -983,28 +990,6 @@
     - MPL-2.0
   categories:
     - app-admin
-- repo: gnuguix
-  srcname: chezmoi
-  binname: chezmoi
-  visiblename: chezmoi
-  version: 2.1.0
-  origversion: null
-  status: outdated
-  summary: Personal configuration files manager
-- repo: homebrew
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: 2.73.3
-  origversion: null
-  status: newest
-  summary: Manage your dotfiles across multiple diverse machines, securely
-- repo: homebrew
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Manage your dotfiles across multiple diverse machines, securely
 - repo: liguros_stable
   srcname: app-admin/chezmoi
   visiblename: app-admin/chezmoi
@@ -1177,17 +1162,6 @@
   summary: Manage your dotfiles across multiple machines
   licenses:
     - MIT
-- repo: nix_stable_25_05
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: 2.62.3
-  origversion: null
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: chezmoi
   visiblename: chezmoi
@@ -1199,6 +1173,18 @@
     - fallback-mnt-nix@repology
   licenses:
     - MIT
+- repo: terra_rawhide
+  srcname: chezmoi
+  binname: chezmoi-debuginfo
+  visiblename: chezmoi-debuginfo
+  version: 2.70.0
+  origversion: 2.70.0-1.fcrawhide
+  status: outdated
+  summary: Debug information for package chezmoi
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
 - repo: nix_stable_26_05
   srcname: chezmoi
   visiblename: chezmoi
@@ -1308,6 +1294,19 @@
   summary: Manage your dotfiles across multiple machines
   licenses:
     - MIT
+- repo: raspbian_testing
+  subrepo: main
+  srcname: chezmoi
+  binnames:
+    - chezmoi
+  visiblename: chezmoi
+  version: 2.73.1
+  origversion: 2.73.1-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - vcs
 - repo: scoop
   subrepo: main
   binname: chezmoi
@@ -1473,18 +1472,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: terra_rawhide
-  srcname: chezmoi
-  binname: chezmoi-debuginfo
-  visiblename: chezmoi-debuginfo
-  version: 2.70.0
-  origversion: 2.70.0-1.fcrawhide
-  status: outdated
-  summary: Debug information for package chezmoi
-  licenses:
-    - MIT
-  categories:
-    - Development/Debug
 - repo: terra_rawhide
   srcname: chezmoi
   binname: chezmoi-debuginfo
