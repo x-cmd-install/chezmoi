@@ -48,7 +48,7 @@ x install chezmoi
 
 ## 流行度
 
-- **Star**: 22,098 · **Fork**: 698 · **开放 issue**: 1,797 · **贡献者**: 235
+- **Star**: 22,107 · **Fork**: 698 · **开放 issue**: 1,797 · **贡献者**: 235
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install chezmoi
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 3 | 32 | 1 | 5 | 2 | 75 |
-| last60d | 2026-08-30 | 6 | 46 | 1 | 9 | 3 | 108 |
-| 90d | 2026-07-31 | 7 | 63 | 2 | 18 | 3 | 141 |
-| last180d | 2026-05-02 | 12 | 114 | 3 | 45 | 9 | 271 |
-| 360d | 2025-11-03 | 23 | 232 | 3 | 132 | 20 | 513 |
-| last720d | 2024-11-08 | 50 | 507 | 3 | 335 | 29 | 1100 |
+| 30d | 2026-09-30 | 3 | 32 | 1 | 5 | 2 | 75 |
+| last60d | 2026-08-31 | 5 | 46 | 1 | 9 | 3 | 108 |
+| 90d | 2026-08-01 | 7 | 61 | 2 | 18 | 3 | 141 |
+| last180d | 2026-05-03 | 12 | 114 | 3 | 45 | 9 | 271 |
+| 360d | 2025-11-04 | 23 | 232 | 3 | 131 | 20 | 513 |
+| last720d | 2024-11-09 | 50 | 507 | 3 | 335 | 29 | 1094 |
 
 ## Release 资产
 
@@ -183,7 +183,7 @@ x install chezmoi
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/chezmoi) 上共有 **160** 个发行版报告此项目。**20** 个 ✅ 已是最新上游版本，**86** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/chezmoi) 上共有 **160** 个发行版报告此项目。**21** 个 ✅ 已是最新上游版本，**85** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -193,7 +193,7 @@ x install chezmoi
 | Homebrew | `2.73.3` | ✅ latest |
 | Fedora rawhide | `2.73.0` | ⚠️ outdated |
 | Nix unstable | `2.73.2` | ⚠️ outdated |
-| Void | `2.73.1` | ⚠️ outdated |
+| Void | `2.73.3` | ✅ latest |
 | Alpine edge | `2.73.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.73.0` | ⚠️ outdated |
 
@@ -206,4 +206,4 @@ chezmoi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261029.yml` · 2026-10-29T05:53:55Z._
+_数据快照: `data/card/261030.yml` · 2026-10-30T05:49:15Z._
