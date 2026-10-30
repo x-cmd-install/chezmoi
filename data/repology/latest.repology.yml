@@ -10,6 +10,19 @@
 - repo: alpine_3_17
   subrepo: community
   srcname: chezmoi
+  binname: chezmoi-bash-completion
+  visiblename: chezmoi-bash-completion
+  version: 2.27.1
+  origversion: 2.27.1-r4
+  status: outdated
+  summary: Bash completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: chezmoi
   binname: chezmoi-fish-completion
   visiblename: chezmoi-fish-completion
   version: 2.27.1
@@ -46,19 +59,6 @@
     - kdaudt@alpinelinux.org
   licenses:
     - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-bash-completion
-  visiblename: chezmoi-bash-completion
-  version: 2.27.1
-  origversion: 2.27.1-r4
-  status: outdated
-  summary: Bash completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
 - repo: alpine_3_18
   subrepo: community
   srcname: chezmoi
@@ -96,6 +96,17 @@
   summary: Fish completions for chezmoi
   maintainers:
     - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: chezmoi
+  visiblename: chezmoi
+  version: 2.53.1
+  origversion: null
+  status: outdated
+  summary: Manage your dotfiles across multiple machines, securely
+  maintainers:
+    - torres.anderson.85@protonmail.com
   licenses:
     - MIT
 - repo: alpine_3_18
@@ -429,7 +440,7 @@
   binname: chezmoi
   visiblename: chezmoi
   version: 2.73.0
-  origversion: 2.73.0-r0
+  origversion: 2.73.0-r1
   status: outdated
   summary: Manage your dotfiles across multiple machines, securely.
   maintainers:
@@ -442,7 +453,7 @@
   binname: chezmoi-bash-completion
   visiblename: chezmoi-bash-completion
   version: 2.73.0
-  origversion: 2.73.0-r0
+  origversion: 2.73.0-r1
   status: outdated
   summary: Bash completions for chezmoi
   maintainers:
@@ -455,7 +466,7 @@
   binname: chezmoi-fish-completion
   visiblename: chezmoi-fish-completion
   version: 2.73.0
-  origversion: 2.73.0-r0
+  origversion: 2.73.0-r1
   status: outdated
   summary: Fish completions for chezmoi
   maintainers:
@@ -468,7 +479,7 @@
   binname: chezmoi-zsh-completion
   visiblename: chezmoi-zsh-completion
   version: 2.73.0
-  origversion: 2.73.0-r0
+  origversion: 2.73.0-r1
   status: outdated
   summary: Zsh completions for chezmoi
   maintainers:
@@ -491,6 +502,17 @@
     - MIT
   categories:
     - System/Configuration/Other
+- repo: nix_stable_25_05
+  srcname: chezmoi
+  visiblename: chezmoi
+  version: 2.62.3
+  origversion: null
+  status: outdated
+  summary: Manage your dotfiles across multiple machines, securely
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
 - repo: altsisyphus
   srcname: chezmoi
   binnames:
@@ -507,6 +529,15 @@
     - MIT
   categories:
     - System/Configuration/Other
+- repo: wakemeops
+  subrepo: terminal
+  binname: chezmoi
+  visiblename: chezmoi
+  version: 2.70.0
+  origversion: 2.70.0-1~ops2deb
+  status: outdated
+  maintainers:
+    - ops2deb@upciti.com
 - repo: aosc
   srcname: app-utils/chezmoi
   binname: chezmoi
@@ -655,6 +686,17 @@
     - daniel@debian.org
   categories:
     - vcs
+- repo: nix_stable_25_11
+  srcname: chezmoi
+  visiblename: chezmoi
+  version: 2.66.2
+  origversion: null
+  status: outdated
+  summary: Manage your dotfiles across multiple machines, securely
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
 - repo: epel_9
   srcname: chezmoi
   binnames:
@@ -718,22 +760,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: chezmoi
-  binnames:
-    - chezmoi
-    - chezmoi-debuginfo
-    - chezmoi-debugsource
-  visiblename: chezmoi
-  version: 2.70.0
-  origversion: 2.70.0-1.fc43
-  status: outdated
-  summary: Manage your dotfiles across multiple diverse machines
-  licenses:
-    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-3.0 AND ISC AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: chezmoi
   binnames:
@@ -749,7 +775,7 @@
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
-- repo: fedora_44
+- repo: fedora_43
   subrepo: updates
   srcname: chezmoi
   binnames:
@@ -757,12 +783,12 @@
     - chezmoi-debuginfo
     - chezmoi-debugsource
   visiblename: chezmoi
-  version: 2.73.0
-  origversion: 2.73.0-1.fc44
+  version: 2.70.0
+  origversion: 2.70.0-1.fc43
   status: outdated
   summary: Manage your dotfiles across multiple diverse machines
   licenses:
-    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND OFL-1.1
+    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-3.0 AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_44
@@ -781,18 +807,31 @@
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-3.0 AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: chezmoi
+- repo: wakemeops
+  subrepo: terminal
+  binname: chezmoi
   visiblename: chezmoi
-  version: 2.40.0
-  origversion: 2.40.0-bp156.1.12
+  version: 2.69.4
+  origversion: 2.69.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: fedora_44
+  subrepo: updates
+  srcname: chezmoi
+  binnames:
+    - chezmoi
+    - chezmoi-debuginfo
+    - chezmoi-debugsource
+  visiblename: chezmoi
+  version: 2.73.0
+  origversion: 2.73.0-1.fc44
   status: outdated
-  summary: A multi-host manager for dotfiles
+  summary: Manage your dotfiles across multiple diverse machines
   licenses:
-    - MIT
+    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND OFL-1.1
   categories:
-    - Development/Tools/Version Control
+    - Unspecified
 - repo: fedora_rawhide
   subrepo: development
   srcname: chezmoi
@@ -807,6 +846,18 @@
   summary: Manage your dotfiles across multiple diverse machines
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND OFL-1.1
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: chezmoi
+  binname: chezmoi
+  visiblename: chezmoi
+  version: 2.59.1
+  origversion: 2.59.1-1.fc41
+  status: outdated
+  summary: Manage your dotfiles across multiple diverse machines, securely
+  licenses:
+    - MIT
   categories:
     - Unspecified
 - repo: freebsd
@@ -982,39 +1033,6 @@
     - torres.anderson.85@protonmail.com
   licenses:
     - MIT
-- repo: nix_stable_24_11
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: 2.53.1
-  origversion: null
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely
-  maintainers:
-    - torres.anderson.85@protonmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: 2.62.3
-  origversion: null
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: 2.66.2
-  origversion: null
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: chezmoi
   visiblename: chezmoi
@@ -1066,6 +1084,18 @@
   visiblename: chezmoi
   version: 2.30.0
   origversion: 2.30.0-bp155.1.17
+  status: outdated
+  summary: A multi-host manager for dotfiles
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools/Version Control
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: chezmoi
+  visiblename: chezmoi
+  version: 2.40.0
+  origversion: 2.40.0-bp156.1.12
   status: outdated
   summary: A multi-host manager for dotfiles
   licenses:
@@ -1182,18 +1212,6 @@
   summary: Manage your dotfiles across multiple machines
   maintainers:
     - grimler91@github
-- repo: terra_41
-  srcname: chezmoi
-  binname: chezmoi
-  visiblename: chezmoi
-  version: 2.59.1
-  origversion: 2.59.1-1.fc41
-  status: outdated
-  summary: Manage your dotfiles across multiple diverse machines, securely
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: terra_41
   srcname: chezmoi
   binname: chezmoi
@@ -1362,23 +1380,14 @@
     - MIT
   categories:
     - Unspecified
-- repo: wakemeops
-  subrepo: terminal
-  binname: chezmoi
-  visiblename: chezmoi
-  version: 2.59.0
-  origversion: 2.59.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: void_x86_64
   subrepo: x86_64
   srcname: chezmoi
   binname: chezmoi
   visiblename: chezmoi
-  version: 2.73.1
-  origversion: 2.73.1_1
-  status: outdated
+  version: 2.73.3
+  origversion: 2.73.3_1
+  status: newest
   summary: Manage your dotfiles across multiple machines, securely
   maintainers:
     - void@placeviolette.net
@@ -1394,24 +1403,6 @@
   summary: Manage your dotfiles across multiple machines
   maintainers:
     - wonkru-dev@proton.me
-- repo: wakemeops
-  subrepo: terminal
-  binname: chezmoi
-  visiblename: chezmoi
-  version: 2.70.0
-  origversion: 2.70.0-1~ops2deb
-  status: outdated
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: terminal
-  binname: chezmoi
-  visiblename: chezmoi
-  version: 2.69.4
-  origversion: 2.69.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: wakemeops
   subrepo: terminal
   binname: chezmoi
@@ -1625,6 +1616,15 @@
   visiblename: chezmoi
   version: 2.59.1
   origversion: 2.59.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: terminal
+  binname: chezmoi
+  visiblename: chezmoi
+  version: 2.59.0
+  origversion: 2.59.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
