@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,116 · **Forks**: 698 · **Open issues**: 1,799 · **Contributors**: 235
+- **Stars**: 22,123 · **Forks**: 699 · **Open issues**: 1,799 · **Contributors**: 235
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 32 | 3 | 5 | 4 | 75 |
-| last60d | 2026-09-01 | 5 | 46 | 3 | 9 | 5 | 108 |
-| 90d | 2026-08-02 | 7 | 59 | 4 | 18 | 5 | 141 |
-| last180d | 2026-05-04 | 12 | 114 | 5 | 45 | 11 | 271 |
-| 360d | 2025-11-05 | 23 | 231 | 5 | 131 | 22 | 513 |
-| last720d | 2024-11-10 | 49 | 505 | 5 | 335 | 31 | 1094 |
+| 30d | 2026-10-02 | 3 | 31 | 3 | 5 | 3 | 75 |
+| last60d | 2026-09-02 | 5 | 43 | 3 | 9 | 5 | 108 |
+| 90d | 2026-08-03 | 6 | 59 | 3 | 18 | 5 | 141 |
+| last180d | 2026-05-05 | 12 | 114 | 5 | 45 | 11 | 271 |
+| 360d | 2025-11-06 | 23 | 231 | 5 | 131 | 22 | 513 |
+| last720d | 2024-11-11 | 49 | 502 | 5 | 334 | 31 | 1093 |
 
 ## Release assets
 
@@ -183,7 +183,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **160** distros on [repology.org](https://repology.org/project/chezmoi). **21** are ✅ on the latest upstream release, **85** are ⚠️ on an older version.
+Reported by **160** distros on [repology.org](https://repology.org/project/chezmoi). **22** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -192,7 +192,7 @@ Reported by **160** distros on [repology.org](https://repology.org/project/chezm
 | Arch | `2.73.3` | ✅ latest |
 | Homebrew | `2.73.3` | ✅ latest |
 | Fedora rawhide | `2.73.0` | ⚠️ outdated |
-| Nix unstable | `2.73.2` | ⚠️ outdated |
+| Nix unstable | `2.73.3` | ✅ latest |
 | Void | `2.73.3` | ✅ latest |
 | Alpine edge | `2.73.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.73.0` | ⚠️ outdated |
@@ -206,4 +206,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:32:05Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:08:28Z._

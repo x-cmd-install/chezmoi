@@ -48,7 +48,7 @@ x install chezmoi
 
 ## 流行度
 
-- **Star**: 22,116 · **Fork**: 698 · **开放 issue**: 1,799 · **贡献者**: 235
+- **Star**: 22,123 · **Fork**: 699 · **开放 issue**: 1,799 · **贡献者**: 235
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install chezmoi
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 32 | 3 | 5 | 4 | 75 |
-| last60d | 2026-09-01 | 5 | 46 | 3 | 9 | 5 | 108 |
-| 90d | 2026-08-02 | 7 | 59 | 4 | 18 | 5 | 141 |
-| last180d | 2026-05-04 | 12 | 114 | 5 | 45 | 11 | 271 |
-| 360d | 2025-11-05 | 23 | 231 | 5 | 131 | 22 | 513 |
-| last720d | 2024-11-10 | 49 | 505 | 5 | 335 | 31 | 1094 |
+| 30d | 2026-10-02 | 3 | 31 | 3 | 5 | 3 | 75 |
+| last60d | 2026-09-02 | 5 | 43 | 3 | 9 | 5 | 108 |
+| 90d | 2026-08-03 | 6 | 59 | 3 | 18 | 5 | 141 |
+| last180d | 2026-05-05 | 12 | 114 | 5 | 45 | 11 | 271 |
+| 360d | 2025-11-06 | 23 | 231 | 5 | 131 | 22 | 513 |
+| last720d | 2024-11-11 | 49 | 502 | 5 | 334 | 31 | 1093 |
 
 ## Release 资产
 
@@ -183,7 +183,7 @@ x install chezmoi
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/chezmoi) 上共有 **160** 个发行版报告此项目。**21** 个 ✅ 已是最新上游版本，**85** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/chezmoi) 上共有 **160** 个发行版报告此项目。**22** 个 ✅ 已是最新上游版本，**84** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -192,7 +192,7 @@ x install chezmoi
 | Arch | `2.73.3` | ✅ latest |
 | Homebrew | `2.73.3` | ✅ latest |
 | Fedora rawhide | `2.73.0` | ⚠️ outdated |
-| Nix unstable | `2.73.2` | ⚠️ outdated |
+| Nix unstable | `2.73.3` | ✅ latest |
 | Void | `2.73.3` | ✅ latest |
 | Alpine edge | `2.73.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.73.0` | ⚠️ outdated |
@@ -206,4 +206,4 @@ chezmoi 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T05:32:06Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T06:08:29Z._
