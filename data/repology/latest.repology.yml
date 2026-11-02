@@ -3,227 +3,227 @@
   visiblename: chezmoi
   version: 2.73.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Manage your dotfiles across multiple machines
   licenses:
     - MIT
-- repo: openindiana
-  subrepo: hipster
+- repo: alpine_3_17
+  subrepo: community
   srcname: chezmoi
-  binname: application/chezmoi
+  binname: chezmoi-fish-completion
+  visiblename: chezmoi-fish-completion
+  version: 2.27.1
+  origversion: 2.27.1-r4
+  status: outdated
+  summary: Fish completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi-zsh-completion
+  visiblename: chezmoi-zsh-completion
+  version: 2.27.1
+  origversion: 2.27.1-r4
+  status: outdated
+  summary: Zsh completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi
   visiblename: chezmoi
-  version: 2.34.2
+  version: 2.27.1
+  origversion: 2.27.1-r4
+  status: outdated
+  summary: Manage your dotfiles across multiple machines, securely.
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi-bash-completion
+  visiblename: chezmoi-bash-completion
+  version: 2.27.1
+  origversion: 2.27.1-r4
+  status: outdated
+  summary: Bash completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi
+  visiblename: chezmoi
+  version: 2.33.4
+  origversion: 2.33.4-r4
+  status: outdated
+  summary: Manage your dotfiles across multiple machines, securely.
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi-bash-completion
+  visiblename: chezmoi-bash-completion
+  version: 2.33.4
+  origversion: 2.33.4-r4
+  status: outdated
+  summary: Bash completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi-fish-completion
+  visiblename: chezmoi-fish-completion
+  version: 2.33.4
+  origversion: 2.33.4-r4
+  status: outdated
+  summary: Fish completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi-zsh-completion
+  visiblename: chezmoi-zsh-completion
+  version: 2.33.4
+  origversion: 2.33.4-r4
+  status: outdated
+  summary: Zsh completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi
+  visiblename: chezmoi
+  version: 2.42.2
+  origversion: 2.42.2-r3
+  status: outdated
+  summary: Manage your dotfiles across multiple machines, securely.
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi-bash-completion
+  visiblename: chezmoi-bash-completion
+  version: 2.42.2
+  origversion: 2.42.2-r3
+  status: outdated
+  summary: Bash completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi-fish-completion
+  visiblename: chezmoi-fish-completion
+  version: 2.42.2
+  origversion: 2.42.2-r3
+  status: outdated
+  summary: Fish completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi-zsh-completion
+  visiblename: chezmoi-zsh-completion
+  version: 2.42.2
+  origversion: 2.42.2-r3
+  status: outdated
+  summary: Zsh completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi
+  visiblename: chezmoi
+  version: 2.48.2
+  origversion: 2.48.2-r1
+  status: outdated
+  summary: Manage your dotfiles across multiple machines, securely.
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi-bash-completion
+  visiblename: chezmoi-bash-completion
+  version: 2.48.2
+  origversion: 2.48.2-r1
+  status: outdated
+  summary: Bash completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi-fish-completion
+  visiblename: chezmoi-fish-completion
+  version: 2.48.2
+  origversion: 2.48.2-r1
+  status: outdated
+  summary: Fish completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: chezmoi
+  binname: chezmoi-zsh-completion
+  visiblename: chezmoi-zsh-completion
+  version: 2.48.2
+  origversion: 2.48.2-r1
+  status: outdated
+  summary: Zsh completions for chezmoi
+  maintainers:
+    - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: chezmoi
+  visiblename: chezmoi
+  version: 2.53.1
   origversion: null
   status: outdated
-  summary: Manage your dotfiles across multiple diverse machines, securely.
-  categories:
-    - Applications/System Utilities
-- repo: alpine_3_17
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-fish-completion
-  visiblename: chezmoi-fish-completion
-  version: 2.27.1
-  origversion: 2.27.1-r4
-  status: outdated
-  summary: Fish completions for chezmoi
+  summary: Manage your dotfiles across multiple machines, securely
   maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-zsh-completion
-  visiblename: chezmoi-zsh-completion
-  version: 2.27.1
-  origversion: 2.27.1-r4
-  status: outdated
-  summary: Zsh completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi
-  visiblename: chezmoi
-  version: 2.27.1
-  origversion: 2.27.1-r4
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely.
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-bash-completion
-  visiblename: chezmoi-bash-completion
-  version: 2.27.1
-  origversion: 2.27.1-r4
-  status: outdated
-  summary: Bash completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi
-  visiblename: chezmoi
-  version: 2.33.4
-  origversion: 2.33.4-r4
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely.
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-bash-completion
-  visiblename: chezmoi-bash-completion
-  version: 2.33.4
-  origversion: 2.33.4-r4
-  status: outdated
-  summary: Bash completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-fish-completion
-  visiblename: chezmoi-fish-completion
-  version: 2.33.4
-  origversion: 2.33.4-r4
-  status: outdated
-  summary: Fish completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-zsh-completion
-  visiblename: chezmoi-zsh-completion
-  version: 2.33.4
-  origversion: 2.33.4-r4
-  status: outdated
-  summary: Zsh completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi
-  visiblename: chezmoi
-  version: 2.42.2
-  origversion: 2.42.2-r3
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely.
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-bash-completion
-  visiblename: chezmoi-bash-completion
-  version: 2.42.2
-  origversion: 2.42.2-r3
-  status: outdated
-  summary: Bash completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-fish-completion
-  visiblename: chezmoi-fish-completion
-  version: 2.42.2
-  origversion: 2.42.2-r3
-  status: outdated
-  summary: Fish completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-zsh-completion
-  visiblename: chezmoi-zsh-completion
-  version: 2.42.2
-  origversion: 2.42.2-r3
-  status: outdated
-  summary: Zsh completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi
-  visiblename: chezmoi
-  version: 2.48.2
-  origversion: 2.48.2-r1
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely.
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-bash-completion
-  visiblename: chezmoi-bash-completion
-  version: 2.48.2
-  origversion: 2.48.2-r1
-  status: outdated
-  summary: Bash completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-fish-completion
-  visiblename: chezmoi-fish-completion
-  version: 2.48.2
-  origversion: 2.48.2-r1
-  status: outdated
-  summary: Fish completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: chezmoi
-  binname: chezmoi-zsh-completion
-  visiblename: chezmoi-zsh-completion
-  version: 2.48.2
-  origversion: 2.48.2-r1
-  status: outdated
-  summary: Zsh completions for chezmoi
-  maintainers:
-    - kdaudt@alpinelinux.org
+    - torres.anderson.85@protonmail.com
   licenses:
     - MIT
 - repo: alpine_3_21
@@ -289,17 +289,6 @@
   summary: Manage your dotfiles across multiple machines, securely.
   maintainers:
     - kdaudt@alpinelinux.org
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: chezmoi
-  binname: chezmoi
-  visiblename: chezmoi
-  version: 2.73.1
-  origversion: 2.73.1-r2
-  status: outdated
-  summary: Dotfiles manager
   licenses:
     - MIT
 - repo: alpine_3_22
@@ -495,6 +484,17 @@
   summary: Zsh completions for chezmoi
   maintainers:
     - kdaudt@alpinelinux.org
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: chezmoi
+  visiblename: chezmoi
+  version: 2.62.3
+  origversion: null
+  status: outdated
+  summary: Manage your dotfiles across multiple machines, securely
+  maintainers:
+    - fallback-mnt-nix@repology
   licenses:
     - MIT
 - repo: alt_p11
@@ -521,7 +521,7 @@
   visiblename: chezmoi
   version: 2.73.3
   origversion: 2.73.3-alt1
-  status: newest
+  status: outdated
   summary: Manage your dotfiles across multiple diverse machines, securely
   maintainers:
     - egori@altlinux.org
@@ -546,10 +546,21 @@
   srcname: chezmoi
   binname: chezmoi
   visiblename: chezmoi
-  version: 2.73.3
-  origversion: 2.73.3-1
+  version: 2.74.0
+  origversion: 2.74.0-1
   status: newest
   summary: Manage your dotfiles across multiple machines
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: chezmoi
+  visiblename: chezmoi
+  version: 2.66.2
+  origversion: null
+  status: outdated
+  summary: Manage your dotfiles across multiple machines, securely
+  maintainers:
+    - fallback-mnt-nix@repology
   licenses:
     - MIT
 - repo: aur
@@ -579,10 +590,21 @@
 - repo: chimera
   subrepo: user
   srcname: chezmoi
+  binname: chezmoi
+  visiblename: chezmoi
+  version: 2.73.3
+  origversion: 2.73.3-r0
+  status: outdated
+  summary: Dotfiles manager
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: chezmoi
   binname: chezmoi-bashcomp
   visiblename: chezmoi-bashcomp
-  version: 2.73.1
-  origversion: 2.73.1-r2
+  version: 2.73.3
+  origversion: 2.73.3-r0
   status: outdated
   summary: Dotfiles manager (bash completions)
   licenses:
@@ -592,8 +614,8 @@
   srcname: chezmoi
   binname: chezmoi-doc
   visiblename: chezmoi-doc
-  version: 2.73.1
-  origversion: 2.73.1-r2
+  version: 2.73.3
+  origversion: 2.73.3-r0
   status: outdated
   summary: Dotfiles manager (documentation)
   licenses:
@@ -603,8 +625,8 @@
   srcname: chezmoi
   binname: chezmoi-fishcomp
   visiblename: chezmoi-fishcomp
-  version: 2.73.1
-  origversion: 2.73.1-r2
+  version: 2.73.3
+  origversion: 2.73.3-r0
   status: outdated
   summary: Dotfiles manager (fish completions)
   licenses:
@@ -614,8 +636,8 @@
   srcname: chezmoi
   binname: chezmoi-zshcomp
   visiblename: chezmoi-zshcomp
-  version: 2.73.1
-  origversion: 2.73.1-r2
+  version: 2.73.3
+  origversion: 2.73.3-r0
   status: outdated
   summary: Dotfiles manager (zsh completions)
   licenses:
@@ -623,7 +645,7 @@
 - repo: chocolatey
   binname: chezmoi
   visiblename: chezmoi
-  version: 2.73.3
+  version: 2.74.0
   origversion: null
   status: newest
   summary: Manage your dotfiles across multiple diverse machines, securely.
@@ -635,7 +657,7 @@
   visiblename: chezmoi
   version: 2.73.3
   origversion: 2.73.3-1
-  status: newest
+  status: outdated
   maintainers:
     - daniel@debian.org
   categories:
@@ -648,7 +670,7 @@
   visiblename: chezmoi
   version: 2.73.3
   origversion: 2.73.3-1
-  status: newest
+  status: outdated
   maintainers:
     - daniel@debian.org
   categories:
@@ -661,7 +683,7 @@
   visiblename: chezmoi
   version: 2.73.3
   origversion: 2.73.3-1
-  status: newest
+  status: outdated
   maintainers:
     - daniel@debian.org
   categories:
@@ -728,34 +750,6 @@
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-3.0 AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
-- repo: opensuse_leap_15_5
-  subrepo: main/oss
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: 2.30.0
-  origversion: 2.30.0-bp155.1.17
-  status: outdated
-  summary: A multi-host manager for dotfiles
-  licenses:
-    - MIT
-  categories:
-    - Development/Tools/Version Control
-- repo: fedora_43
-  subrepo: release
-  srcname: chezmoi
-  binnames:
-    - chezmoi
-    - chezmoi-debuginfo
-    - chezmoi-debugsource
-  visiblename: chezmoi
-  version: 2.63.1
-  origversion: 2.63.1-1.fc43
-  status: legacy
-  summary: Manage your dotfiles across multiple diverse machines
-  licenses:
-    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
-  categories:
-    - Unspecified
 - repo: fedora_43
   subrepo: updates
   srcname: chezmoi
@@ -770,6 +764,22 @@
   summary: Manage your dotfiles across multiple diverse machines
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND CC-BY-3.0 AND ISC AND MIT AND MPL-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: chezmoi
+  binnames:
+    - chezmoi
+    - chezmoi-debuginfo
+    - chezmoi-debugsource
+  visiblename: chezmoi
+  version: 2.63.1
+  origversion: 2.63.1-1.fc43
+  status: legacy
+  summary: Manage your dotfiles across multiple diverse machines
+  licenses:
+    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0
   categories:
     - Unspecified
 - repo: fedora_44
@@ -820,16 +830,6 @@
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause-Views AND BSD-3-Clause AND ISC AND MIT AND MPL-2.0 AND OFL-1.1
   categories:
     - Unspecified
-- repo: pacstall
-  srcname: chezmoi-deb
-  binname: chezmoi-deb
-  visiblename: chezmoi-deb
-  version: 2.72.0
-  origversion: 2.72.0-1
-  status: outdated
-  summary: Manage your dotfiles across multiple diverse machines, securely
-  maintainers:
-    - oren@taumoda.com
 - repo: freebsd
   srcname: sysutils/chezmoi
   binname: chezmoi
@@ -847,7 +847,7 @@
   visiblename: app-admin/chezmoi
   version: 2.73.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Manage your dotfiles across multiple machines, securely
   maintainers:
     - me@rebtoor.com
@@ -870,7 +870,7 @@
 - repo: homebrew
   srcname: chezmoi
   visiblename: chezmoi
-  version: 2.73.3
+  version: 2.74.0
   origversion: null
   status: newest
   summary: Manage your dotfiles across multiple diverse machines, securely
@@ -933,7 +933,7 @@
   visiblename: app-admin/chezmoi
   version: 2.73.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Manage your dotfiles across multiple machines, securely
   maintainers:
     - me@rebtoor.com
@@ -949,7 +949,7 @@
   srcname: sysutils/chezmoi
   binname: chezmoi
   visiblename: chezmoi
-  version: 2.73.3
+  version: 2.74.0
   origversion: null
   status: newest
   summary: Manage your dotfiles across multiple machines, securely.
@@ -988,7 +988,7 @@
   visiblename: chezmoi
   version: 2.73.3
   origversion: 2.73.3-1
-  status: newest
+  status: outdated
   summary: Manage your dotfiles across multiple machines
   licenses:
     - MIT
@@ -1001,39 +1001,6 @@
   summary: Manage your dotfiles across multiple machines, securely
   maintainers:
     - torres.anderson.85@protonmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: 2.53.1
-  origversion: null
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely
-  maintainers:
-    - torres.anderson.85@protonmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: 2.62.3
-  origversion: null
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: chezmoi
-  visiblename: chezmoi
-  version: 2.66.2
-  origversion: null
-  status: outdated
-  summary: Manage your dotfiles across multiple machines, securely
-  maintainers:
-    - fallback-mnt-nix@repology
   licenses:
     - MIT
 - repo: nix_stable_26_05
@@ -1052,7 +1019,7 @@
   visiblename: chezmoi
   version: 2.73.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Manage your dotfiles across multiple machines, securely
   maintainers:
     - fallback-mnt-nix@repology
@@ -1062,7 +1029,7 @@
   srcname: sysutils/chezmoi
   binname: chezmoi
   visiblename: sysutils/chezmoi
-  version: 2.73.3
+  version: 2.74.0
   origversion: null
   status: newest
   summary: dotfiles manager across multiple diverse machines
@@ -1070,6 +1037,29 @@
     - ports@openbsd.org
   categories:
     - sysutils
+- repo: openindiana
+  subrepo: hipster
+  srcname: chezmoi
+  binname: application/chezmoi
+  visiblename: chezmoi
+  version: 2.34.2
+  origversion: null
+  status: outdated
+  summary: Manage your dotfiles across multiple diverse machines, securely.
+  categories:
+    - Applications/System Utilities
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: chezmoi
+  visiblename: chezmoi
+  version: 2.30.0
+  origversion: 2.30.0-bp155.1.17
+  status: outdated
+  summary: A multi-host manager for dotfiles
+  licenses:
+    - MIT
+  categories:
+    - Development/Tools/Version Control
 - repo: opensuse_leap_15_6
   subrepo: main/oss
   srcname: chezmoi
@@ -1101,13 +1091,23 @@
     - MIT
   categories:
     - Development/Tools/Version Control
+- repo: pacstall
+  srcname: chezmoi-deb
+  binname: chezmoi-deb
+  visiblename: chezmoi-deb
+  version: 2.72.0
+  origversion: 2.72.0-1
+  status: outdated
+  summary: Manage your dotfiles across multiple diverse machines, securely
+  maintainers:
+    - oren@taumoda.com
 - repo: parabola
   subrepo: extra
   srcname: chezmoi
   binname: chezmoi
   visiblename: chezmoi
-  version: 2.73.3
-  origversion: 2.73.3-1
+  version: 2.74.0
+  origversion: 2.74.0-1
   status: newest
   summary: Manage your dotfiles across multiple machines
   licenses:
@@ -1129,7 +1129,7 @@
   subrepo: main
   binname: chezmoi
   visiblename: chezmoi
-  version: 2.73.3
+  version: 2.74.0
   origversion: null
   status: newest
   licenses:
@@ -1138,7 +1138,7 @@
   srcname: chezmoi
   binname: chezmoi
   visiblename: chezmoi
-  version: 2.73.3
+  version: 2.74.0
   origversion: null
   status: newest
   summary: chezmoi helps you manage your personal configuration files across multiple machines
@@ -1152,7 +1152,7 @@
   srcname: chezmoi
   binname: chezmoi-dbginfo
   visiblename: chezmoi-dbginfo
-  version: 2.73.3
+  version: 2.74.0
   origversion: null
   status: newest
   summary: Debug symbols for chezmoi
@@ -1166,8 +1166,8 @@
   subrepo: main
   srcname: chezmoi
   visiblename: chezmoi
-  version: 2.73.3
-  origversion: 2.73.3-1
+  version: 2.74.0
+  origversion: 2.74.0-1
   status: newest
   summary: Manage your dotfiles across multiple machines
   maintainers:
@@ -1176,7 +1176,7 @@
   srcname: chezmoi
   binname: chezmoi
   visiblename: chezmoi
-  version: 2.73.3
+  version: 2.74.0
   origversion: null
   status: newest
   summary: Manage your dotfiles across multiple machines
@@ -1369,7 +1369,7 @@
   visiblename: chezmoi
   version: 2.73.3
   origversion: 2.73.3_1
-  status: newest
+  status: outdated
   summary: Manage your dotfiles across multiple machines, securely
   maintainers:
     - void@placeviolette.net
@@ -1379,8 +1379,8 @@
   subrepo: extra
   srcname: chezmoi
   visiblename: chezmoi
-  version: 2.73.3
-  origversion: 2.73.3-1
+  version: 2.74.0
+  origversion: 2.74.0-1
   status: newest
   summary: Manage your dotfiles across multiple machines
   maintainers:
