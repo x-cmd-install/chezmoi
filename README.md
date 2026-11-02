@@ -42,158 +42,157 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.73.3` (2026-10-20)
-- **Last commit**: 2026-10-28
-- **Assets in release**: 111
+- **Latest**: `v2.74.0` (2026-11-01)
+- **Last commit**: 2026-11-01
+- **Assets in release**: 110
 
 ## Popularity
 
-- **Stars**: 22,123 · **Forks**: 699 · **Open issues**: 1,799 · **Contributors**: 235
+- **Stars**: 22,132 · **Forks**: 699 · **Open issues**: 1,799 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 262 · **Merged PRs**: 2583 · **Open PRs**: 5 · **Closed issues**: 1751 · **Open issues**: 48 · **Commits**: 5957
+- **Releases**: 263 · **Merged PRs**: 2584 · **Open PRs**: 4 · **Closed issues**: 1751 · **Open issues**: 48 · **Commits**: 5961
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 3 | 31 | 3 | 5 | 3 | 75 |
-| last60d | 2026-09-02 | 5 | 43 | 3 | 9 | 5 | 108 |
-| 90d | 2026-08-03 | 6 | 59 | 3 | 18 | 5 | 141 |
-| last180d | 2026-05-05 | 12 | 114 | 5 | 45 | 11 | 271 |
-| 360d | 2025-11-06 | 23 | 231 | 5 | 131 | 22 | 513 |
-| last720d | 2024-11-11 | 49 | 502 | 5 | 334 | 31 | 1093 |
+| 30d | 2026-10-03 | 4 | 32 | 2 | 5 | 3 | 64 |
+| last60d | 2026-09-03 | 6 | 43 | 2 | 9 | 5 | 99 |
+| 90d | 2026-08-04 | 7 | 60 | 2 | 17 | 5 | 140 |
+| last180d | 2026-05-06 | 13 | 115 | 4 | 45 | 11 | 269 |
+| 360d | 2025-11-07 | 24 | 231 | 4 | 130 | 22 | 511 |
+| last720d | 2024-11-12 | 50 | 503 | 4 | 333 | 31 | 1092 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [chezmoi-2.73.3-aarch64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-aarch64.rpm) | 13.8 MiB | `other` |
-| [chezmoi-2.73.3-armhfp.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-armhfp.rpm) | 14.6 MiB | `other` |
-| [chezmoi-2.73.3-armv5l.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-armv5l.rpm) | 14.6 MiB | `other` |
-| [chezmoi-2.73.3-i686.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-i686.rpm) | 14.6 MiB | `other` |
-| [chezmoi-2.73.3-loong64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-loong64.rpm) | 14.6 MiB | `other` |
-| [chezmoi-2.73.3-mips64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-mips64.rpm) | 13.3 MiB | `other` |
-| [chezmoi-2.73.3-mips64le.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-mips64le.rpm) | 13.3 MiB | `other` |
-| [chezmoi-2.73.3-ppc64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-ppc64.rpm) | 13.9 MiB | `other` |
-| [chezmoi-2.73.3-ppc64le.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-ppc64le.rpm) | 13.9 MiB | `other` |
-| [chezmoi-2.73.3-riscv64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-riscv64.rpm) | 14.5 MiB | `other` |
-| [chezmoi-2.73.3-s390x.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-s390x.rpm) | 14.8 MiB | `other` |
-| [chezmoi-2.73.3-x86_64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3-x86_64.rpm) | 15.4 MiB | `other` |
-| [chezmoi-2.73.3.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-2.73.3.tar.gz) | 2.4 MiB | `native/unknown` |
-| [chezmoi-darwin-amd64](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-darwin-amd64) | 41.0 MiB | `native/darwin/x64` |
-| [chezmoi-darwin-arm64](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-darwin-arm64) | 38.0 MiB | `native/darwin/arm64` |
-| [chezmoi-linux-amd64](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-linux-amd64) | 40.3 MiB | `native/linux/x64` |
-| [chezmoi-linux-amd64-musl](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-linux-amd64-musl) | 40.3 MiB | `native/linux/x64/musl` |
-| [chezmoi-windows-amd64.exe](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi-windows-amd64.exe) | 41.0 MiB | `native/win/x64` |
-| [chezmoi_2.73.3_android_arm64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_android_arm64.tar.gz) | 14.6 MiB | `native/linux/arm64` |
-| [chezmoi_2.73.3_android_arm64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_android_arm64.tar.gz.sbom.json) | 267.0 KiB | `other` |
-| [chezmoi_2.73.3_checksums.txt](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_checksums.txt) | 10.8 KiB | `other` |
-| [chezmoi_2.73.3_checksums.txt.sigstore.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_checksums.txt.sigstore.json) | 3.8 KiB | `other` |
-| [chezmoi_2.73.3_darwin_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_darwin_amd64.tar.gz) | 15.6 MiB | `native/darwin/x64` |
-| [chezmoi_2.73.3_darwin_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_darwin_amd64.tar.gz.sbom.json) | 265.4 KiB | `native/darwin/x64` |
-| [chezmoi_2.73.3_darwin_arm64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_darwin_arm64.tar.gz) | 14.4 MiB | `native/darwin/arm64` |
-| [chezmoi_2.73.3_darwin_arm64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_darwin_arm64.tar.gz.sbom.json) | 265.4 KiB | `native/darwin/arm64` |
-| [chezmoi_2.73.3_freebsd_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_freebsd_amd64.tar.gz) | 15.2 MiB | `native/linux/x64` |
-| [chezmoi_2.73.3_freebsd_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_freebsd_amd64.tar.gz.sbom.json) | 265.6 KiB | `other` |
-| [chezmoi_2.73.3_freebsd_arm64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_freebsd_arm64.tar.gz) | 13.7 MiB | `native/linux/arm64` |
-| [chezmoi_2.73.3_freebsd_arm64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_freebsd_arm64.tar.gz.sbom.json) | 265.6 KiB | `other` |
-| [chezmoi_2.73.3_freebsd_armv5.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_freebsd_armv5.tar.gz) | 14.4 MiB | `native/linux/arm` |
-| [chezmoi_2.73.3_freebsd_armv5.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_freebsd_armv5.tar.gz.sbom.json) | 265.6 KiB | `other` |
-| [chezmoi_2.73.3_freebsd_armv6.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_freebsd_armv6.tar.gz) | 14.4 MiB | `native/linux/arm` |
-| [chezmoi_2.73.3_freebsd_armv6.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_freebsd_armv6.tar.gz.sbom.json) | 265.6 KiB | `other` |
-| [chezmoi_2.73.3_freebsd_i386.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_freebsd_i386.tar.gz) | 14.5 MiB | `native/linux/x86` |
-| [chezmoi_2.73.3_freebsd_i386.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_freebsd_i386.tar.gz.sbom.json) | 265.4 KiB | `other` |
-| [chezmoi_2.73.3_linux-glibc_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux-glibc_amd64.tar.gz) | 15.4 MiB | `native/linux/x64` |
-| [chezmoi_2.73.3_linux-glibc_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux-glibc_amd64.tar.gz.sbom.json) | 267.7 KiB | `native/linux/x64` |
-| [chezmoi_2.73.3_linux-musl_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux-musl_amd64.tar.gz) | 15.4 MiB | `native/linux/x64/musl` |
-| [chezmoi_2.73.3_linux-musl_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux-musl_amd64.tar.gz.sbom.json) | 267.5 KiB | `native/linux/x64/musl` |
-| [chezmoi_2.73.3_linux_386.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_386.apk) | 15.2 MiB | `other` |
-| [chezmoi_2.73.3_linux_386.pkg.tar.zst](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_386.pkg.tar.zst) | 14.3 MiB | `other` |
-| [chezmoi_2.73.3_linux_amd64.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_amd64.apk) | 16.0 MiB | `native/linux/x64` |
-| [chezmoi_2.73.3_linux_amd64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_amd64.deb) | 15.4 MiB | `native/linux/x64` |
-| [chezmoi_2.73.3_linux_amd64.pkg.tar.zst](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_amd64.pkg.tar.zst) | 15.2 MiB | `native/linux/x64` |
-| [chezmoi_2.73.3_linux_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_amd64.tar.gz) | 15.4 MiB | `native/linux/x64` |
-| [chezmoi_2.73.3_linux_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_amd64.tar.gz.sbom.json) | 266.7 KiB | `native/linux/x64` |
-| [chezmoi_2.73.3_linux_arm64.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_arm64.apk) | 14.4 MiB | `native/linux/arm64` |
-| [chezmoi_2.73.3_linux_arm64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_arm64.deb) | 13.8 MiB | `native/linux/arm64` |
-| [chezmoi_2.73.3_linux_arm64.pkg.tar.zst](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_arm64.pkg.tar.zst) | 13.6 MiB | `native/linux/arm64` |
-| [chezmoi_2.73.3_linux_arm64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_arm64.tar.gz) | 13.8 MiB | `native/linux/arm64` |
-| [chezmoi_2.73.3_linux_arm64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_arm64.tar.gz.sbom.json) | 266.7 KiB | `native/linux/arm64` |
-| [chezmoi_2.73.3_linux_armel.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_armel.deb) | 14.6 MiB | `native/linux/arm` |
-| [chezmoi_2.73.3_linux_armhf.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_armhf.deb) | 14.5 MiB | `native/linux/arm` |
-| [chezmoi_2.73.3_linux_armv5.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_armv5.apk) | 15.1 MiB | `native/linux/arm` |
-| [chezmoi_2.73.3_linux_armv5.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_armv5.tar.gz) | 14.6 MiB | `native/linux/arm` |
-| [chezmoi_2.73.3_linux_armv5.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_armv5.tar.gz.sbom.json) | 266.7 KiB | `native/linux/arm` |
-| [chezmoi_2.73.3_linux_armv6.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_armv6.apk) | 15.1 MiB | `native/linux/arm` |
-| [chezmoi_2.73.3_linux_armv6.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_armv6.tar.gz) | 14.6 MiB | `native/linux/arm` |
-| [chezmoi_2.73.3_linux_armv6.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_armv6.tar.gz.sbom.json) | 266.7 KiB | `native/linux/arm` |
-| [chezmoi_2.73.3_linux_i386.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_i386.deb) | 14.6 MiB | `native/linux/x86` |
-| [chezmoi_2.73.3_linux_i386.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_i386.tar.gz) | 14.6 MiB | `native/linux/x86` |
-| [chezmoi_2.73.3_linux_i386.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_i386.tar.gz.sbom.json) | 266.5 KiB | `native/linux/x86` |
-| [chezmoi_2.73.3_linux_loong64.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_loong64.apk) | 15.1 MiB | `other` |
-| [chezmoi_2.73.3_linux_loong64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_loong64.deb) | 14.6 MiB | `other` |
-| [chezmoi_2.73.3_linux_loong64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_loong64.tar.gz) | 14.6 MiB | `native/unknown` |
-| [chezmoi_2.73.3_linux_loong64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_loong64.tar.gz.sbom.json) | 267.0 KiB | `other` |
-| [chezmoi_2.73.3_linux_mips64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_mips64.deb) | 13.3 MiB | `other` |
-| [chezmoi_2.73.3_linux_mips64le.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_mips64le.deb) | 13.3 MiB | `other` |
-| [chezmoi_2.73.3_linux_mips64le_hardfloat.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_mips64le_hardfloat.apk) | 13.8 MiB | `other` |
-| [chezmoi_2.73.3_linux_mips64le_hardfloat.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_mips64le_hardfloat.tar.gz) | 13.3 MiB | `native/unknown` |
-| [chezmoi_2.73.3_linux_mips64le_hardfloat.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_mips64le_hardfloat.tar.gz.sbom.json) | 268.9 KiB | `other` |
-| [chezmoi_2.73.3_linux_mips64_hardfloat.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_mips64_hardfloat.apk) | 14.1 MiB | `other` |
-| [chezmoi_2.73.3_linux_mips64_hardfloat.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_mips64_hardfloat.tar.gz) | 13.3 MiB | `native/unknown` |
-| [chezmoi_2.73.3_linux_mips64_hardfloat.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_mips64_hardfloat.tar.gz.sbom.json) | 268.6 KiB | `other` |
-| [chezmoi_2.73.3_linux_ppc64.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_ppc64.apk) | 14.5 MiB | `other` |
-| [chezmoi_2.73.3_linux_ppc64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_ppc64.deb) | 13.9 MiB | `other` |
-| [chezmoi_2.73.3_linux_ppc64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_ppc64.tar.gz) | 13.9 MiB | `native/unknown` |
-| [chezmoi_2.73.3_linux_ppc64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_ppc64.tar.gz.sbom.json) | 266.7 KiB | `other` |
-| [chezmoi_2.73.3_linux_ppc64le.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_ppc64le.apk) | 14.4 MiB | `other` |
-| [chezmoi_2.73.3_linux_ppc64le.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_ppc64le.deb) | 13.9 MiB | `other` |
-| [chezmoi_2.73.3_linux_ppc64le.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_ppc64le.tar.gz) | 13.9 MiB | `native/unknown` |
-| [chezmoi_2.73.3_linux_ppc64le.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_ppc64le.tar.gz.sbom.json) | 267.0 KiB | `other` |
-| [chezmoi_2.73.3_linux_riscv64.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_riscv64.apk) | 15.0 MiB | `native/linux/riscv64` |
-| [chezmoi_2.73.3_linux_riscv64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_riscv64.deb) | 14.5 MiB | `native/linux/riscv64` |
-| [chezmoi_2.73.3_linux_riscv64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_riscv64.tar.gz) | 14.5 MiB | `native/linux/riscv64` |
-| [chezmoi_2.73.3_linux_riscv64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_riscv64.tar.gz.sbom.json) | 267.0 KiB | `native/linux/riscv64` |
-| [chezmoi_2.73.3_linux_s390x.apk](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_s390x.apk) | 15.5 MiB | `other` |
-| [chezmoi_2.73.3_linux_s390x.deb](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_s390x.deb) | 14.8 MiB | `runtime/deb/s390x` |
-| [chezmoi_2.73.3_linux_s390x.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_s390x.tar.gz) | 14.8 MiB | `native/unknown` |
-| [chezmoi_2.73.3_linux_s390x.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_linux_s390x.tar.gz.sbom.json) | 266.7 KiB | `other` |
-| [chezmoi_2.73.3_openbsd_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_openbsd_amd64.tar.gz) | 15.3 MiB | `native/linux/x64` |
-| [chezmoi_2.73.3_openbsd_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_openbsd_amd64.tar.gz.sbom.json) | 267.0 KiB | `other` |
-| [chezmoi_2.73.3_openbsd_arm64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_openbsd_arm64.tar.gz) | 13.8 MiB | `native/linux/arm64` |
-| [chezmoi_2.73.3_openbsd_arm64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_openbsd_arm64.tar.gz.sbom.json) | 267.0 KiB | `other` |
-| [chezmoi_2.73.3_openbsd_armv5.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_openbsd_armv5.tar.gz) | 14.6 MiB | `native/linux/arm` |
-| [chezmoi_2.73.3_openbsd_armv5.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_openbsd_armv5.tar.gz.sbom.json) | 267.0 KiB | `other` |
-| [chezmoi_2.73.3_openbsd_armv6.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_openbsd_armv6.tar.gz) | 14.5 MiB | `native/linux/arm` |
-| [chezmoi_2.73.3_openbsd_armv6.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_openbsd_armv6.tar.gz.sbom.json) | 267.0 KiB | `other` |
-| [chezmoi_2.73.3_openbsd_i386.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_openbsd_i386.tar.gz) | 14.6 MiB | `native/linux/x86` |
-| [chezmoi_2.73.3_openbsd_i386.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_openbsd_i386.tar.gz.sbom.json) | 266.8 KiB | `other` |
-| [chezmoi_2.73.3_windows_386.msix](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_windows_386.msix) | 16.0 MiB | `native/win/x64` |
-| [chezmoi_2.73.3_windows_amd64.msix](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_windows_amd64.msix) | 16.4 MiB | `native/win/x64` |
-| [chezmoi_2.73.3_windows_amd64.zip](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_windows_amd64.zip) | 15.6 MiB | `native/win/x64` |
-| [chezmoi_2.73.3_windows_amd64.zip.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_windows_amd64.zip.sbom.json) | 273.5 KiB | `native/win/x64` |
-| [chezmoi_2.73.3_windows_arm64.msix](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_windows_arm64.msix) | 14.6 MiB | `native/win/arm64` |
-| [chezmoi_2.73.3_windows_arm64.zip](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_windows_arm64.zip) | 13.9 MiB | `native/win/arm64` |
-| [chezmoi_2.73.3_windows_arm64.zip.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_windows_arm64.zip.sbom.json) | 273.5 KiB | `native/win/arm64` |
-| [chezmoi_2.73.3_windows_i386.zip](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_windows_i386.zip) | 15.2 MiB | `native/win/x64` |
-| [chezmoi_2.73.3_windows_i386.zip.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_2.73.3_windows_i386.zip.sbom.json) | 273.3 KiB | `native/win/x64` |
-| [chezmoi_cosign.pub](https://github.com/twpayne/chezmoi/releases/download/v2.73.3/chezmoi_cosign.pub) | 178 B | `other` |
+| [chezmoi-2.74.0-aarch64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-aarch64.rpm) | 14.3 MiB | `other` |
+| [chezmoi-2.74.0-armhfp.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-armhfp.rpm) | 15.0 MiB | `other` |
+| [chezmoi-2.74.0-armv5l.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-armv5l.rpm) | 15.0 MiB | `other` |
+| [chezmoi-2.74.0-i686.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-i686.rpm) | 15.1 MiB | `other` |
+| [chezmoi-2.74.0-loong64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-loong64.rpm) | 15.0 MiB | `other` |
+| [chezmoi-2.74.0-mips64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-mips64.rpm) | 13.9 MiB | `other` |
+| [chezmoi-2.74.0-mips64le.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-mips64le.rpm) | 13.7 MiB | `other` |
+| [chezmoi-2.74.0-ppc64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-ppc64.rpm) | 14.5 MiB | `other` |
+| [chezmoi-2.74.0-ppc64le.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-ppc64le.rpm) | 14.4 MiB | `other` |
+| [chezmoi-2.74.0-riscv64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-riscv64.rpm) | 14.9 MiB | `other` |
+| [chezmoi-2.74.0-s390x.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-s390x.rpm) | 15.4 MiB | `other` |
+| [chezmoi-2.74.0-x86_64.rpm](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0-x86_64.rpm) | 15.8 MiB | `other` |
+| [chezmoi-2.74.0.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-2.74.0.tar.gz) | 2.4 MiB | `native/unknown` |
+| [chezmoi-darwin-arm64](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-darwin-arm64) | 38.1 MiB | `native/darwin/arm64` |
+| [chezmoi-linux-amd64](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-linux-amd64) | 40.4 MiB | `native/linux/x64` |
+| [chezmoi-linux-amd64-musl](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-linux-amd64-musl) | 40.4 MiB | `native/linux/x64/musl` |
+| [chezmoi-windows-amd64.exe](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi-windows-amd64.exe) | 41.1 MiB | `native/win/x64` |
+| [chezmoi_2.74.0_android_arm64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_android_arm64.tar.gz) | 14.7 MiB | `native/linux/arm64` |
+| [chezmoi_2.74.0_android_arm64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_android_arm64.tar.gz.sbom.json) | 267.0 KiB | `other` |
+| [chezmoi_2.74.0_checksums.txt](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_checksums.txt) | 10.7 KiB | `other` |
+| [chezmoi_2.74.0_checksums.txt.sigstore.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_checksums.txt.sigstore.json) | 3.9 KiB | `other` |
+| [chezmoi_2.74.0_darwin_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_darwin_amd64.tar.gz) | 15.6 MiB | `native/darwin/x64` |
+| [chezmoi_2.74.0_darwin_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_darwin_amd64.tar.gz.sbom.json) | 265.4 KiB | `native/darwin/x64` |
+| [chezmoi_2.74.0_darwin_arm64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_darwin_arm64.tar.gz) | 14.4 MiB | `native/darwin/arm64` |
+| [chezmoi_2.74.0_darwin_arm64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_darwin_arm64.tar.gz.sbom.json) | 265.4 KiB | `native/darwin/arm64` |
+| [chezmoi_2.74.0_freebsd_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_freebsd_amd64.tar.gz) | 15.2 MiB | `native/linux/x64` |
+| [chezmoi_2.74.0_freebsd_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_freebsd_amd64.tar.gz.sbom.json) | 265.6 KiB | `other` |
+| [chezmoi_2.74.0_freebsd_arm64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_freebsd_arm64.tar.gz) | 13.7 MiB | `native/linux/arm64` |
+| [chezmoi_2.74.0_freebsd_arm64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_freebsd_arm64.tar.gz.sbom.json) | 265.6 KiB | `other` |
+| [chezmoi_2.74.0_freebsd_armv5.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_freebsd_armv5.tar.gz) | 14.5 MiB | `native/linux/arm` |
+| [chezmoi_2.74.0_freebsd_armv5.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_freebsd_armv5.tar.gz.sbom.json) | 265.6 KiB | `other` |
+| [chezmoi_2.74.0_freebsd_armv6.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_freebsd_armv6.tar.gz) | 14.5 MiB | `native/linux/arm` |
+| [chezmoi_2.74.0_freebsd_armv6.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_freebsd_armv6.tar.gz.sbom.json) | 265.6 KiB | `other` |
+| [chezmoi_2.74.0_freebsd_i386.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_freebsd_i386.tar.gz) | 14.5 MiB | `native/linux/x86` |
+| [chezmoi_2.74.0_freebsd_i386.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_freebsd_i386.tar.gz.sbom.json) | 265.4 KiB | `other` |
+| [chezmoi_2.74.0_linux-glibc_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux-glibc_amd64.tar.gz) | 15.4 MiB | `native/linux/x64` |
+| [chezmoi_2.74.0_linux-glibc_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux-glibc_amd64.tar.gz.sbom.json) | 267.7 KiB | `native/linux/x64` |
+| [chezmoi_2.74.0_linux-musl_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux-musl_amd64.tar.gz) | 15.5 MiB | `native/linux/x64/musl` |
+| [chezmoi_2.74.0_linux-musl_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux-musl_amd64.tar.gz.sbom.json) | 267.5 KiB | `native/linux/x64/musl` |
+| [chezmoi_2.74.0_linux_386.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_386.apk) | 15.2 MiB | `other` |
+| [chezmoi_2.74.0_linux_386.pkg.tar.zst](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_386.pkg.tar.zst) | 14.4 MiB | `other` |
+| [chezmoi_2.74.0_linux_amd64.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_amd64.apk) | 16.1 MiB | `native/linux/x64` |
+| [chezmoi_2.74.0_linux_amd64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_amd64.deb) | 15.4 MiB | `native/linux/x64` |
+| [chezmoi_2.74.0_linux_amd64.pkg.tar.zst](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_amd64.pkg.tar.zst) | 15.2 MiB | `native/linux/x64` |
+| [chezmoi_2.74.0_linux_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_amd64.tar.gz) | 15.4 MiB | `native/linux/x64` |
+| [chezmoi_2.74.0_linux_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_amd64.tar.gz.sbom.json) | 266.7 KiB | `native/linux/x64` |
+| [chezmoi_2.74.0_linux_arm64.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_arm64.apk) | 14.4 MiB | `native/linux/arm64` |
+| [chezmoi_2.74.0_linux_arm64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_arm64.deb) | 13.9 MiB | `native/linux/arm64` |
+| [chezmoi_2.74.0_linux_arm64.pkg.tar.zst](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_arm64.pkg.tar.zst) | 13.7 MiB | `native/linux/arm64` |
+| [chezmoi_2.74.0_linux_arm64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_arm64.tar.gz) | 13.9 MiB | `native/linux/arm64` |
+| [chezmoi_2.74.0_linux_arm64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_arm64.tar.gz.sbom.json) | 266.7 KiB | `native/linux/arm64` |
+| [chezmoi_2.74.0_linux_armel.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_armel.deb) | 14.7 MiB | `native/linux/arm` |
+| [chezmoi_2.74.0_linux_armhf.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_armhf.deb) | 14.6 MiB | `native/linux/arm` |
+| [chezmoi_2.74.0_linux_armv5.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_armv5.apk) | 15.2 MiB | `native/linux/arm` |
+| [chezmoi_2.74.0_linux_armv5.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_armv5.tar.gz) | 14.7 MiB | `native/linux/arm` |
+| [chezmoi_2.74.0_linux_armv5.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_armv5.tar.gz.sbom.json) | 266.7 KiB | `native/linux/arm` |
+| [chezmoi_2.74.0_linux_armv6.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_armv6.apk) | 15.2 MiB | `native/linux/arm` |
+| [chezmoi_2.74.0_linux_armv6.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_armv6.tar.gz) | 14.6 MiB | `native/linux/arm` |
+| [chezmoi_2.74.0_linux_armv6.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_armv6.tar.gz.sbom.json) | 266.7 KiB | `native/linux/arm` |
+| [chezmoi_2.74.0_linux_i386.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_i386.deb) | 14.7 MiB | `native/linux/x86` |
+| [chezmoi_2.74.0_linux_i386.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_i386.tar.gz) | 14.7 MiB | `native/linux/x86` |
+| [chezmoi_2.74.0_linux_i386.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_i386.tar.gz.sbom.json) | 266.5 KiB | `native/linux/x86` |
+| [chezmoi_2.74.0_linux_loong64.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_loong64.apk) | 15.2 MiB | `other` |
+| [chezmoi_2.74.0_linux_loong64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_loong64.deb) | 14.6 MiB | `other` |
+| [chezmoi_2.74.0_linux_loong64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_loong64.tar.gz) | 14.6 MiB | `native/unknown` |
+| [chezmoi_2.74.0_linux_loong64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_loong64.tar.gz.sbom.json) | 267.0 KiB | `other` |
+| [chezmoi_2.74.0_linux_mips64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_mips64.deb) | 13.4 MiB | `other` |
+| [chezmoi_2.74.0_linux_mips64le.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_mips64le.deb) | 13.3 MiB | `other` |
+| [chezmoi_2.74.0_linux_mips64le_hardfloat.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_mips64le_hardfloat.apk) | 13.9 MiB | `other` |
+| [chezmoi_2.74.0_linux_mips64le_hardfloat.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_mips64le_hardfloat.tar.gz) | 13.3 MiB | `native/unknown` |
+| [chezmoi_2.74.0_linux_mips64le_hardfloat.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_mips64le_hardfloat.tar.gz.sbom.json) | 268.9 KiB | `other` |
+| [chezmoi_2.74.0_linux_mips64_hardfloat.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_mips64_hardfloat.apk) | 14.2 MiB | `other` |
+| [chezmoi_2.74.0_linux_mips64_hardfloat.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_mips64_hardfloat.tar.gz) | 13.4 MiB | `native/unknown` |
+| [chezmoi_2.74.0_linux_mips64_hardfloat.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_mips64_hardfloat.tar.gz.sbom.json) | 268.6 KiB | `other` |
+| [chezmoi_2.74.0_linux_ppc64.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_ppc64.apk) | 14.7 MiB | `other` |
+| [chezmoi_2.74.0_linux_ppc64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_ppc64.deb) | 14.0 MiB | `other` |
+| [chezmoi_2.74.0_linux_ppc64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_ppc64.tar.gz) | 14.0 MiB | `native/unknown` |
+| [chezmoi_2.74.0_linux_ppc64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_ppc64.tar.gz.sbom.json) | 266.7 KiB | `other` |
+| [chezmoi_2.74.0_linux_ppc64le.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_ppc64le.apk) | 14.5 MiB | `other` |
+| [chezmoi_2.74.0_linux_ppc64le.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_ppc64le.deb) | 13.9 MiB | `other` |
+| [chezmoi_2.74.0_linux_ppc64le.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_ppc64le.tar.gz) | 13.9 MiB | `native/unknown` |
+| [chezmoi_2.74.0_linux_ppc64le.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_ppc64le.tar.gz.sbom.json) | 267.0 KiB | `other` |
+| [chezmoi_2.74.0_linux_riscv64.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_riscv64.apk) | 15.1 MiB | `native/linux/riscv64` |
+| [chezmoi_2.74.0_linux_riscv64.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_riscv64.deb) | 14.6 MiB | `native/linux/riscv64` |
+| [chezmoi_2.74.0_linux_riscv64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_riscv64.tar.gz) | 14.6 MiB | `native/linux/riscv64` |
+| [chezmoi_2.74.0_linux_riscv64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_riscv64.tar.gz.sbom.json) | 267.0 KiB | `native/linux/riscv64` |
+| [chezmoi_2.74.0_linux_s390x.apk](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_s390x.apk) | 15.5 MiB | `other` |
+| [chezmoi_2.74.0_linux_s390x.deb](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_s390x.deb) | 14.8 MiB | `runtime/deb/s390x` |
+| [chezmoi_2.74.0_linux_s390x.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_s390x.tar.gz) | 14.8 MiB | `native/unknown` |
+| [chezmoi_2.74.0_linux_s390x.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_linux_s390x.tar.gz.sbom.json) | 266.7 KiB | `other` |
+| [chezmoi_2.74.0_openbsd_amd64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_openbsd_amd64.tar.gz) | 15.4 MiB | `native/linux/x64` |
+| [chezmoi_2.74.0_openbsd_amd64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_openbsd_amd64.tar.gz.sbom.json) | 267.0 KiB | `other` |
+| [chezmoi_2.74.0_openbsd_arm64.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_openbsd_arm64.tar.gz) | 13.9 MiB | `native/linux/arm64` |
+| [chezmoi_2.74.0_openbsd_arm64.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_openbsd_arm64.tar.gz.sbom.json) | 267.0 KiB | `other` |
+| [chezmoi_2.74.0_openbsd_armv5.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_openbsd_armv5.tar.gz) | 14.6 MiB | `native/linux/arm` |
+| [chezmoi_2.74.0_openbsd_armv5.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_openbsd_armv5.tar.gz.sbom.json) | 267.0 KiB | `other` |
+| [chezmoi_2.74.0_openbsd_armv6.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_openbsd_armv6.tar.gz) | 14.6 MiB | `native/linux/arm` |
+| [chezmoi_2.74.0_openbsd_armv6.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_openbsd_armv6.tar.gz.sbom.json) | 267.0 KiB | `other` |
+| [chezmoi_2.74.0_openbsd_i386.tar.gz](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_openbsd_i386.tar.gz) | 14.6 MiB | `native/linux/x86` |
+| [chezmoi_2.74.0_openbsd_i386.tar.gz.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_openbsd_i386.tar.gz.sbom.json) | 266.8 KiB | `other` |
+| [chezmoi_2.74.0_windows_386.msix](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_windows_386.msix) | 16.0 MiB | `native/win/x64` |
+| [chezmoi_2.74.0_windows_amd64.msix](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_windows_amd64.msix) | 16.5 MiB | `native/win/x64` |
+| [chezmoi_2.74.0_windows_amd64.zip](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_windows_amd64.zip) | 15.7 MiB | `native/win/x64` |
+| [chezmoi_2.74.0_windows_amd64.zip.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_windows_amd64.zip.sbom.json) | 273.5 KiB | `native/win/x64` |
+| [chezmoi_2.74.0_windows_arm64.msix](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_windows_arm64.msix) | 14.7 MiB | `native/win/arm64` |
+| [chezmoi_2.74.0_windows_arm64.zip](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_windows_arm64.zip) | 14.0 MiB | `native/win/arm64` |
+| [chezmoi_2.74.0_windows_arm64.zip.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_windows_arm64.zip.sbom.json) | 273.5 KiB | `native/win/arm64` |
+| [chezmoi_2.74.0_windows_i386.zip](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_windows_i386.zip) | 15.2 MiB | `native/win/x64` |
+| [chezmoi_2.74.0_windows_i386.zip.sbom.json](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_2.74.0_windows_i386.zip.sbom.json) | 273.3 KiB | `native/win/x64` |
+| [chezmoi_cosign.pub](https://github.com/twpayne/chezmoi/releases/download/v2.74.0/chezmoi_cosign.pub) | 178 B | `other` |
 
 ## Distribution status
 
-Reported by **160** distros on [repology.org](https://repology.org/project/chezmoi). **22** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
+Reported by **160** distros on [repology.org](https://repology.org/project/chezmoi). **12** are ✅ on the latest upstream release, **94** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2.73.3` | ✅ latest |
-| Debian 14 | `2.73.3` | ✅ latest |
-| Arch | `2.73.3` | ✅ latest |
-| Homebrew | `2.73.3` | ✅ latest |
+| Debian unstable | `2.73.3` | ⚠️ outdated |
+| Debian 14 | `2.73.3` | ⚠️ outdated |
+| Arch | `2.74.0` | ✅ latest |
+| Homebrew | `2.74.0` | ✅ latest |
 | Fedora rawhide | `2.73.0` | ⚠️ outdated |
-| Nix unstable | `2.73.3` | ✅ latest |
-| Void | `2.73.3` | ✅ latest |
+| Nix unstable | `2.73.3` | ⚠️ outdated |
+| Void | `2.73.3` | ⚠️ outdated |
 | Alpine edge | `2.73.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.73.0` | ⚠️ outdated |
 
@@ -206,4 +205,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:08:28Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:06:28Z._
