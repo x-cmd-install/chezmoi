@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.74.0` (2026-11-01)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 110
 
 ## Popularity
 
-- **Stars**: 22,155 · **Forks**: 700 · **Open issues**: 1,800 · **Contributors**: 235
+- **Stars**: 22,169 · **Forks**: 699 · **Open issues**: 1,800 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 263 · **Merged PRs**: 2586 · **Open PRs**: 4 · **Closed issues**: 1752 · **Open issues**: 48 · **Commits**: 5965
+- **Releases**: 263 · **Merged PRs**: 2586 · **Open PRs**: 4 · **Closed issues**: 1752 · **Open issues**: 48 · **Commits**: 5966
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 4 | 33 | 2 | 5 | 3 | 68 |
-| last60d | 2026-09-05 | 6 | 43 | 2 | 10 | 5 | 103 |
-| 90d | 2026-08-06 | 7 | 62 | 2 | 18 | 5 | 144 |
-| last180d | 2026-05-08 | 12 | 116 | 4 | 44 | 10 | 273 |
-| 360d | 2025-11-09 | 24 | 232 | 4 | 129 | 22 | 515 |
-| last720d | 2024-11-14 | 50 | 503 | 4 | 334 | 31 | 1093 |
+| 30d | 2026-10-06 | 4 | 32 | 2 | 5 | 3 | 69 |
+| last60d | 2026-09-06 | 6 | 43 | 2 | 10 | 5 | 104 |
+| 90d | 2026-08-07 | 7 | 61 | 2 | 17 | 5 | 145 |
+| last180d | 2026-05-09 | 12 | 116 | 4 | 44 | 9 | 274 |
+| 360d | 2025-11-10 | 24 | 231 | 4 | 129 | 22 | 516 |
+| last720d | 2024-11-15 | 50 | 503 | 4 | 334 | 31 | 1092 |
 
 ## Release assets
 
@@ -182,12 +182,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **160** distros on [repology.org](https://repology.org/project/chezmoi). **16** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
+Reported by **160** distros on [repology.org](https://repology.org/project/chezmoi). **17** are ✅ on the latest upstream release, **89** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `2.74.0` | ✅ latest |
-| Debian 14 | `2.73.3` | ⚠️ outdated |
+| Debian 14 | `2.74.0` | ✅ latest |
 | Arch | `2.74.0` | ✅ latest |
 | Homebrew | `2.74.0` | ✅ latest |
 | Fedora rawhide | `2.73.0` | ⚠️ outdated |
@@ -205,4 +205,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:14:19Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:39:59Z._
