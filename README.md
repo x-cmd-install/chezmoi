@@ -18,7 +18,7 @@ Total: **45,140** lines of code across **329** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 40,840 | 2,261 | 4,157 | 297 |
+| Go | 40,840 | 2,262 | 4,157 | 297 |
 | Yaml | 1,746 | 0 | 8 | 5 |
 | Sh | 807 | 49 | 122 | 10 |
 | PowerShell | 372 | 89 | 85 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.74.1` (2026-11-10)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-12
 - **Assets in release**: 110
 
 ## Popularity
 
-- **Stars**: 22,238 · **Forks**: 696 · **Open issues**: 1,804 · **Contributors**: 237
+- **Stars**: 22,248 · **Forks**: 696 · **Open issues**: 1,804 · **Contributors**: 237
 
 ## Totals (cumulative)
 
-- **Releases**: 264 · **Merged PRs**: 2593 · **Open PRs**: 5 · **Closed issues**: 1757 · **Open issues**: 47 · **Commits**: 5983
+- **Releases**: 264 · **Merged PRs**: 2593 · **Open PRs**: 5 · **Closed issues**: 1757 · **Open issues**: 47 · **Commits**: 5984
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 4 | 26 | 3 | 7 | 3 | 64 |
-| last60d | 2026-09-13 | 7 | 48 | 3 | 12 | 6 | 118 |
-| 90d | 2026-08-14 | 8 | 66 | 3 | 14 | 6 | 155 |
-| last180d | 2026-05-16 | 13 | 118 | 5 | 45 | 10 | 281 |
-| 360d | 2025-11-17 | 25 | 237 | 5 | 134 | 21 | 530 |
-| last720d | 2024-11-22 | 51 | 504 | 5 | 335 | 30 | 1102 |
+| 30d | 2026-10-14 | 4 | 26 | 3 | 7 | 3 | 65 |
+| last60d | 2026-09-14 | 6 | 48 | 3 | 12 | 6 | 119 |
+| 90d | 2026-08-15 | 8 | 65 | 3 | 14 | 6 | 156 |
+| last180d | 2026-05-17 | 13 | 118 | 5 | 44 | 10 | 282 |
+| 360d | 2025-11-18 | 25 | 237 | 5 | 134 | 21 | 531 |
+| last720d | 2024-11-23 | 51 | 504 | 5 | 334 | 30 | 1101 |
 
 ## Release assets
 
@@ -182,7 +182,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **163** distros on [repology.org](https://repology.org/project/chezmoi). **14** are ✅ on the latest upstream release, **94** are ⚠️ on an older version.
+Reported by **163** distros on [repology.org](https://repology.org/project/chezmoi). **15** are ✅ on the latest upstream release, **93** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -191,7 +191,7 @@ Reported by **163** distros on [repology.org](https://repology.org/project/chezm
 | Arch | `2.74.1` | ✅ latest |
 | Homebrew | `2.74.1` | ✅ latest |
 | Fedora rawhide | `2.73.0` | ⚠️ outdated |
-| Nix unstable | `2.73.3` | ⚠️ outdated |
+| Nix unstable | `2.74.1` | ✅ latest |
 | Void | `2.74.0` | ⚠️ outdated |
 | Alpine edge | `2.74.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.74.0` | ⚠️ outdated |
@@ -205,4 +205,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:14:43Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:47:01Z._
