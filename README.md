@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,248 · **Forks**: 696 · **Open issues**: 1,804 · **Contributors**: 237
+- **Stars**: 22,256 · **Forks**: 697 · **Open issues**: 1,804 · **Contributors**: 237
 
 ## Totals (cumulative)
 
-- **Releases**: 264 · **Merged PRs**: 2593 · **Open PRs**: 5 · **Closed issues**: 1757 · **Open issues**: 47 · **Commits**: 5984
+- **Releases**: 264 · **Merged PRs**: 2593 · **Open PRs**: 7 · **Closed issues**: 1757 · **Open issues**: 47 · **Commits**: 5984
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 4 | 26 | 3 | 7 | 3 | 65 |
-| last60d | 2026-09-14 | 6 | 48 | 3 | 12 | 6 | 119 |
-| 90d | 2026-08-15 | 8 | 65 | 3 | 14 | 6 | 156 |
-| last180d | 2026-05-17 | 13 | 118 | 5 | 44 | 10 | 282 |
-| 360d | 2025-11-18 | 25 | 237 | 5 | 134 | 21 | 531 |
-| last720d | 2024-11-23 | 51 | 504 | 5 | 334 | 30 | 1101 |
+| 30d | 2026-10-15 | 4 | 25 | 5 | 6 | 3 | 65 |
+| last60d | 2026-09-15 | 6 | 48 | 5 | 12 | 6 | 119 |
+| 90d | 2026-08-16 | 8 | 65 | 5 | 14 | 6 | 156 |
+| last180d | 2026-05-18 | 13 | 117 | 7 | 44 | 10 | 282 |
+| 360d | 2025-11-19 | 25 | 237 | 7 | 134 | 21 | 531 |
+| last720d | 2024-11-24 | 51 | 504 | 7 | 333 | 30 | 1101 |
 
 ## Release assets
 
@@ -182,7 +182,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **163** distros on [repology.org](https://repology.org/project/chezmoi). **15** are ✅ on the latest upstream release, **93** are ⚠️ on an older version.
+Reported by **163** distros on [repology.org](https://repology.org/project/chezmoi). **16** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -192,7 +192,7 @@ Reported by **163** distros on [repology.org](https://repology.org/project/chezm
 | Homebrew | `2.74.1` | ✅ latest |
 | Fedora rawhide | `2.73.0` | ⚠️ outdated |
 | Nix unstable | `2.74.1` | ✅ latest |
-| Void | `2.74.0` | ⚠️ outdated |
+| Void | `2.74.1` | ✅ latest |
 | Alpine edge | `2.74.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.74.0` | ⚠️ outdated |
 
@@ -205,4 +205,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:47:01Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:25:27Z._
