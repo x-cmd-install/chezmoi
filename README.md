@@ -14,11 +14,11 @@ x install chezmoi
 
 ## Code insight
 
-Total: **45,233** lines of code across **329** files in the top 5 languages.
+Total: **45,231** lines of code across **329** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 40,932 | 2,270 | 4,169 | 297 |
+| Go | 40,930 | 2,270 | 4,169 | 297 |
 | Yaml | 1,747 | 0 | 8 | 5 |
 | Sh | 807 | 49 | 122 | 10 |
 | PowerShell | 372 | 89 | 85 | 2 |
@@ -26,11 +26,11 @@ Total: **45,233** lines of code across **329** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.6 / 10**
+Overall score: **6.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/14 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/15 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.74.1` (2026-11-10)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 110
 
 ## Popularity
 
-- **Stars**: 22,289 · **Forks**: 698 · **Open issues**: 1,805 · **Contributors**: 237
+- **Stars**: 22,307 · **Forks**: 699 · **Open issues**: 1,805 · **Contributors**: 237
 
 ## Totals (cumulative)
 
-- **Releases**: 264 · **Merged PRs**: 2597 · **Open PRs**: 4 · **Closed issues**: 1757 · **Open issues**: 48 · **Commits**: 5994
+- **Releases**: 264 · **Merged PRs**: 2598 · **Open PRs**: 4 · **Closed issues**: 1757 · **Open issues**: 48 · **Commits**: 5995
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 26 | 2 | 6 | 4 | 56 |
-| last60d | 2026-09-18 | 6 | 51 | 2 | 11 | 7 | 120 |
-| 90d | 2026-08-19 | 8 | 66 | 2 | 14 | 7 | 158 |
-| last180d | 2026-05-21 | 12 | 119 | 4 | 43 | 11 | 285 |
-| 360d | 2025-11-22 | 25 | 240 | 4 | 132 | 22 | 528 |
-| last720d | 2024-11-27 | 51 | 504 | 4 | 330 | 31 | 1105 |
+| 30d | 2026-10-20 | 3 | 26 | 1 | 6 | 4 | 57 |
+| last60d | 2026-09-20 | 6 | 51 | 2 | 10 | 7 | 121 |
+| 90d | 2026-08-21 | 8 | 66 | 2 | 14 | 7 | 159 |
+| last180d | 2026-05-23 | 12 | 119 | 4 | 43 | 11 | 286 |
+| 360d | 2025-11-24 | 25 | 237 | 4 | 130 | 22 | 529 |
+| last720d | 2024-11-29 | 51 | 505 | 4 | 329 | 31 | 1106 |
 
 ## Release assets
 
@@ -182,7 +182,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **164** distros on [repology.org](https://repology.org/project/chezmoi). **28** are ✅ on the latest upstream release, **81** are ⚠️ on an older version.
+Reported by **164** distros on [repology.org](https://repology.org/project/chezmoi). **30** are ✅ on the latest upstream release, **78** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -205,4 +205,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:51:50Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:28:43Z._
