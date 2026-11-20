@@ -14,12 +14,12 @@ x install chezmoi
 
 ## Code insight
 
-Total: **45,231** lines of code across **329** files in the top 5 languages.
+Total: **45,245** lines of code across **329** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 40,930 | 2,270 | 4,169 | 297 |
-| Yaml | 1,747 | 0 | 8 | 5 |
+| Go | 40,927 | 2,270 | 4,169 | 297 |
+| Yaml | 1,764 | 0 | 8 | 5 |
 | Sh | 807 | 49 | 122 | 10 |
 | PowerShell | 372 | 89 | 85 | 2 |
 | Svg | 358 | 15 | 0 | 15 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.74.1` (2026-11-10)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-19
 - **Assets in release**: 110
 
 ## Popularity
 
-- **Stars**: 22,307 · **Forks**: 699 · **Open issues**: 1,805 · **Contributors**: 237
+- **Stars**: 22,309 · **Forks**: 699 · **Open issues**: 1,807 · **Contributors**: 237
 
 ## Totals (cumulative)
 
-- **Releases**: 264 · **Merged PRs**: 2598 · **Open PRs**: 4 · **Closed issues**: 1757 · **Open issues**: 48 · **Commits**: 5995
+- **Releases**: 264 · **Merged PRs**: 2599 · **Open PRs**: 4 · **Closed issues**: 1758 · **Open issues**: 49 · **Commits**: 5997
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 3 | 26 | 1 | 6 | 4 | 57 |
-| last60d | 2026-09-20 | 6 | 51 | 2 | 10 | 7 | 121 |
-| 90d | 2026-08-21 | 8 | 66 | 2 | 14 | 7 | 159 |
-| last180d | 2026-05-23 | 12 | 119 | 4 | 43 | 11 | 286 |
-| 360d | 2025-11-24 | 25 | 237 | 4 | 130 | 22 | 529 |
-| last720d | 2024-11-29 | 51 | 505 | 4 | 329 | 31 | 1106 |
+| 30d | 2026-10-21 | 2 | 26 | 1 | 6 | 5 | 59 |
+| last60d | 2026-09-21 | 6 | 52 | 2 | 11 | 8 | 123 |
+| 90d | 2026-08-22 | 8 | 67 | 2 | 15 | 8 | 161 |
+| last180d | 2026-05-24 | 12 | 120 | 4 | 44 | 12 | 288 |
+| 360d | 2025-11-25 | 25 | 238 | 4 | 130 | 22 | 531 |
+| last720d | 2024-11-30 | 51 | 505 | 4 | 330 | 32 | 1108 |
 
 ## Release assets
 
@@ -182,12 +182,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **164** distros on [repology.org](https://repology.org/project/chezmoi). **30** are ✅ on the latest upstream release, **78** are ⚠️ on an older version.
+Reported by **165** distros on [repology.org](https://repology.org/project/chezmoi). **32** are ✅ on the latest upstream release, **76** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `2.74.1` | ✅ latest |
-| Debian 14 | `2.74.0` | ⚠️ outdated |
+| Debian 14 | `2.74.1` | ✅ latest |
 | Arch | `2.74.1` | ✅ latest |
 | Homebrew | `2.74.1` | ✅ latest |
 | Fedora rawhide | `2.73.0` | ⚠️ outdated |
@@ -205,4 +205,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:28:43Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:25:29Z._
