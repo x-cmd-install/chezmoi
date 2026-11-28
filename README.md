@@ -14,11 +14,11 @@ x install chezmoi
 
 ## Code insight
 
-Total: **45,235** lines of code across **329** files in the top 5 languages.
+Total: **45,279** lines of code across **329** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 40,918 | 2,272 | 4,169 | 297 |
+| Go | 40,962 | 2,284 | 4,176 | 297 |
 | Yaml | 1,764 | 0 | 8 | 5 |
 | Sh | 807 | 49 | 122 | 10 |
 | PowerShell | 372 | 89 | 85 | 2 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 22,385 · **Forks**: 699 · **Open issues**: 1,809 · **Contributors**: 238
+- **Stars**: 22,392 · **Forks**: 700 · **Open issues**: 1,809 · **Contributors**: 239
 
 ## Totals (cumulative)
 
-- **Releases**: 265 · **Merged PRs**: 2606 · **Open PRs**: 4 · **Closed issues**: 1759 · **Open issues**: 50 · **Commits**: 6012
+- **Releases**: 265 · **Merged PRs**: 2609 · **Open PRs**: 4 · **Closed issues**: 1759 · **Open issues**: 50 · **Commits**: 6015
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 3 | 23 | 1 | 6 | 6 | 55 |
-| last60d | 2026-09-28 | 7 | 55 | 2 | 11 | 8 | 130 |
-| 90d | 2026-08-29 | 9 | 70 | 2 | 16 | 9 | 164 |
-| last180d | 2026-05-31 | 13 | 125 | 4 | 42 | 12 | 298 |
-| 360d | 2025-12-02 | 25 | 231 | 4 | 125 | 23 | 519 |
-| last720d | 2024-12-07 | 51 | 506 | 4 | 327 | 33 | 1108 |
+| 30d | 2026-10-29 | 3 | 26 | 1 | 6 | 6 | 58 |
+| last60d | 2026-09-29 | 6 | 58 | 2 | 11 | 8 | 133 |
+| 90d | 2026-08-30 | 9 | 72 | 2 | 15 | 9 | 167 |
+| last180d | 2026-06-01 | 13 | 128 | 4 | 42 | 12 | 301 |
+| 360d | 2025-12-03 | 25 | 233 | 4 | 125 | 23 | 522 |
+| last720d | 2024-12-08 | 51 | 506 | 4 | 325 | 33 | 1109 |
 
 ## Release assets
 
@@ -189,4 +189,4 @@ Install metadata for chezmoi lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:51:28Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:46:32Z._
